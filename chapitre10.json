@@ -1,0 +1,589 @@
+[
+    {
+        "chapitre": 10,
+        "id": 1,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux processus d'anabolisme et de catabolisme?",
+        "options": [
+            "A. Le corps doit tirer son \u00e9nergie de substances externes (catabolisme)",
+            "B. Le corps devrait construire ses propres structures et assurer l'accomplissement de ses fonctions biologiques (anabolisme)",
+            "C. L'anabolisme et le catabolisme se conditionnent mutuellement (ils sont interd\u00e9pendants)",
+            "D. L'anabolisme et le catabolisme ne se conditionnent pas (ils sont ind\u00e9pendants)",
+            "E. Les processus m\u00e9taboliques impliquent l'action d'enzymes comme biocatalyseurs"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 2,
+        "question": "Ac\u00e9tyl-CoA est form\u00e9 par:",
+        "options": [
+            "A. Catalyse a\u00e9robie du glucose",
+            "B. Catalyse ana\u00e9robie du glucose",
+            "C. B\u00eata oxydation des acides gras",
+            "D. B\u00eata est\u00e9rification des acides gras",
+            "E. Glycogenogenesis in mitochondria"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 3,
+        "question": "Les affirmations suivantes sont correctes concernant le m\u00e9tabolisme interm\u00e9diaire:",
+        "options": [
+            "A. Les glucides peuvent se transformer en lipides",
+            "B. Les lipides peuvent se transformer en glucides",
+            "C. Les prot\u00e9ines peuvent se transformer en glucides",
+            "D. Les glucides peuvent g\u00e9n\u00e9rer des prot\u00e9ines int\u00e9gralement",
+            "E. Les lipides peuvent g\u00e9n\u00e9rer des prot\u00e9ines int\u00e9gralement"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 4,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au r\u00f4le \u00e9nerg\u00e9tique des glucides dans le corps:",
+        "options": [
+            "A. Ils repr\u00e9sentent le combustible pr\u00e9f\u00e9r\u00e9 de toutes les cellules",
+            "B. Ils sont totalement oxyd\u00e9s jusqu'aux produits finaux non toxiques, CO 2 et H2O, qui peuvent \u00eatre \u00e9limin\u00e9s de l'organisme.",
+            "C. Ils sont totalement oxyd\u00e9s jusqu\u2019au produit final non toxique, CO et H 2O2, qui peut \u00eatre \u00e9limin\u00e9 de l\u2019organisme.",
+            "D. L\u2019oxydation compl\u00e8te de 1 kg de glucose donne 4,1 kcal",
+            "E. L\u2019oxydation compl\u00e8te du glucose produit du CO2 et des amines biog\u00e8nes"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 5,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la transformation du glucose en glycog\u00e8ne:",
+        "options": [
+            "A. C'est ce qu'on appelle la glycog\u00e9nogen\u00e8se",
+            "B. Elle ne se produit que dans le foie",
+            "C. Elle a lieu seulement dans les muscles",
+            "D. C'est ce qu'on appelle la glucon\u00e9ogen\u00e8se",
+            "E. Elle repr\u00e9sente la forme sous laquelle le glucose est d\u00e9pos\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 6,
+        "question": "Une diminution de la glyc\u00e9mie stimule les processus suivants dans le foie:",
+        "options": [
+            "A. Hydrolyse du glycog\u00e8ne h\u00e9patique et musculaire (glycog\u00e9nogen\u00e8se)",
+            "B. Glycog\u00e9nolyse (hydrolyse du glycog\u00e8ne h\u00e9patique)",
+            "C. Glucon\u00e9ogen\u00e8se (synth\u00e8se du glucose \u00e0 partir de compos\u00e9s non glucidiques)",
+            "D. Lipogen\u00e8se (transformation du glucose en triglyc\u00e9rides)",
+            "E. Glycolyse (synth\u00e8se tissulaire de glucose)"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 7,
+        "question": "Il est vrai que, dans le corps, le glucose:",
+        "options": [
+            "A. Est transform\u00e9 en ammoniac, dans le foie",
+            "B. Est catabolis\u00e9 par glycolyse dans tous les tissus, principalement ceux \u00e9rythrocytaires et nerveux",
+            "C. Est transform\u00e9 en saccharose et forme des d\u00e9p\u00f4ts h\u00e9patiques et musculaires",
+            "D. En exc\u00e8s, est transform\u00e9 en acides gras qui seront d\u00e9pos\u00e9s dans les adipocytes sous forme de triglyc\u00e9rides est\u00e9rifi\u00e9s (lipogen\u00e8se)",
+            "E. Est transform\u00e9 en glycog\u00e8ne par glycog\u00e9nogen\u00e8se"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 8,
+        "question": "Parmi les affirmations suivantes, lesquelles sont correctes concernant la glycolyse ana\u00e9robie?",
+        "options": [
+            "A. Elle inclut la transformation d'une mol\u00e9cule de glucose en deux mol\u00e9cules",
+            "d'acide pyruvique",
+            "B. Elle est compl\u00e9t\u00e9e en l'absence d' O2",
+            "C. Elle a lieu dans la mitochondrie",
+            "D. Elle comporte douze \u00e9tapes de r\u00e9actions chimiques successives"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 9,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 l\u2019oxydation du glucose?",
+        "options": [
+            "A. L'efficacit\u00e9 du transfert d'\u00e9nergie par le catabolisme d'une mole de glucose en pr\u00e9sence d' O2 est de 3%, le reste \u00e9tant transform\u00e9 en chaleur",
+            "B. L\u2019efficacit\u00e9 du transfert d\u2019\u00e9nergie par le catabolisme d\u2019une mole de glucose en l\u2019absence de O2 est de 66%, le reste \u00e9tant transform\u00e9 en chaleur",
+            "C. En l'absence d' ad\u00e9nosindiphosphate (ADP), le processus de phosphorilation oxydatif cesse",
+            "D. L'acide lactique r\u00e9sultant en des fibres musculaires, en l'absence d'oxyg\u00e8ne, diffuse dans le sang",
+            "E. Apr\u00e8s le retour \u00e0 l\u2019a\u00e9robiose, l\u2019acide pyruvique ne se transforme plus en acide lactique et le processus glycolytique cesse"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 10,
+        "question": "Parmi les compos\u00e9s suivants, non glucidiques, lesquels sont des pr\u00e9curseurs de la glucon\u00e9ogen\u00e8se h\u00e9patique?",
+        "options": [
+            "A. Acide lactique",
+            "B. Acides amin\u00e9s glucog\u00e9niques (r\u00e9sultant du catabolisme des prot\u00e9ines)",
+            "C. Corps c\u00e9toniques",
+            "D. Cholest\u00e9rol",
+            "E. Glyc\u00e9rol"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 11,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la diminution de la glyc\u00e9mie:",
+        "options": [
+            "A. Elle peut \u00eatre induite par un apport insuffisant en glucose",
+            "B. Elle peut appara\u00eetre comme la cons\u00e9quence d'un exc\u00e8s de glucose",
+            "C. Elle d\u00e9termine la transformation en glucose des produits de catabolisme lipidique (glyc\u00e9rol)",
+            "D. Elle d\u00e9termine la transformation en prot\u00e9ines des produits de dissociation du glucose",
+            "E. Elle peut \u00eatre induit par un apport excessif en glucides"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 12,
+        "question": "Il est vrai que le sucre dans le sang (la concentration de glucose dans le sang):",
+        "options": [
+            "A. Ses valeurs normales vont de 110 \u00e0 180 mg%",
+            "B. Est maintenu dans des valeurs relativement stables, entre 70-110 mg%",
+            "C. Est r\u00e9gul\u00e9 par des m\u00e9canismes neuroendocriniens complexes",
+            "D. Refl\u00e8te l'\u00e9quilibre entre glycog\u00e9nolyse, glycog\u00e9nogen\u00e8se, glycolyse et glucon\u00e9ogen\u00e8se",
+            "E. Est augment\u00e9 par l'insuline et diminu\u00e9 par le glucagon"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 13,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects faisant r\u00e9f\u00e9rence au m\u00e9canisme autonome et endocrinien de la r\u00e9gulation de la glyc\u00e9mie:",
+        "options": [
+            "A. Il agit principalement sur les reins",
+            "B. Il agit principalement sur le foie",
+            "C. Il agit principalement sur les tissus extrah\u00e9patiques",
+            "D. Il modifie correctement le m\u00e9tabolisme des glucides en augmentant la glyc\u00e9mie",
+            "E. Il modifie correctement le m\u00e9tabolisme des glucides en r\u00e9duisant la glyc\u00e9mie"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 14,
+        "question": "Laquelle des hormones suivantes augmente la glyc\u00e9mie en stimulant la glycog\u00e9nolyse?",
+        "options": [
+            "A. Glucagon (glycog\u00e9nolyse h\u00e9patique)",
+            "B. Testost\u00e9rone (glycog\u00e9nolyse musculaire)",
+            "C. Insuline (glycog\u00e9nolyse h\u00e9patique et musculaire)",
+            "D. Aldost\u00e9rone (glycog\u00e9nolyse h\u00e9patique)",
+            "E. Adr\u00e9naline (glycog\u00e9nolyse musculaire)"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 15,
+        "question": "Il est vrai que du point de vue \u00e9nerg\u00e9tique, les lipides:",
+        "options": [
+            "A. Repr\u00e9sentent la source d'\u00e9nergie pr\u00e9f\u00e9r\u00e9e de toutes les cellules du corps",
+            "B. Repr\u00e9sentent une source d'\u00e9nergie majeure qu'ils lib\u00e8rent par des r\u00e9actions d'oxydation",
+            "C. G\u00e9n\u00e8rent, par oxydation, un nombre de calories sup\u00e9rieur \u00e0 celui des glucides",
+            "D. G\u00e9n\u00e8rent, par oxydation, un nombre de calories inf\u00e9rieur aux prot\u00e9ines",
+            "E. Repr\u00e9sentent une source d'\u00e9nergie \u00e0 laquelle le corps a acc\u00e8s dans des conditions de faim ou d'effort physique prolong\u00e9 et intense"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 16,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs \u00e0 la lipolyse:",
+        "options": [
+            "A. Elle se d\u00e9roule sous l'action de la lipase tissulaire",
+            "B. Elle repr\u00e9sente la d\u00e9gradation des triglyc\u00e9rides en acides amin\u00e9s et en glyc\u00e9rol",
+            "C. Elle se produit progressivement avec formation interm\u00e9diaire de di- et monoacilglyc\u00e9rols",
+            "D. Elle est stimul\u00e9e par l'insuline",
+            "E. Elle r\u00e9siste \u00e0 la synth\u00e8se des lipides lorsque l'apport en glucides est excessif"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 17,
+        "question": "Le catabolisme lipidique comprend:",
+        "options": [
+            "A. L'oxydation extrah\u00e9patique des corps c\u00e9toniques",
+            "B. La synth\u00e8se h\u00e9patique des corps c\u00e9toniques \u00e0 partir des acides gras",
+            "C. L'oxydation h\u00e9patique des corps c\u00e9toniques",
+            "D. \u03b2 - oxydation des acides gras dans les mitochondries",
+            "E. L'hydrolyse de la glyc\u00e9rine dans les cellules h\u00e9patiques, adipeuses et musculaires"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 18,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux acides gras:",
+        "options": [
+            "A. Ils sont le r\u00e9sultat de l'action d'une lipoprot\u00e9ine lipase sur les chylomicrons",
+            "B. Le catabolisme des acides gras a lieu dans toutes les cellules, sauf les neurones et les \u00e9rythrocytes (glucose-d\u00e9pendant).",
+            "C. La plus grande partie des acides gras restent dans le cytoplasme, comme des acides gras plasmatiques libres",
+            "D. Au niveau cellulaire, les acides gras peuvent lib\u00e9rer de l\u2019\u00e9nergie par \uf062-oxydation mitochondriale",
+            "E. Le catabolisme des acides gras n'a lieu que dans les neurones et les \u00e9rythrocytes"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 19,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au cholest\u00e9rol:",
+        "options": [
+            "A. On l'appelle endog\u00e8ne quand il provient d'aliments v\u00e9g\u00e9taux",
+            "B. Il est appel\u00e9 exog\u00e8ne quand il provient d'aliments d'origine animale.",
+            "C. Il est lib\u00e9r\u00e9 par le foie sous forme de triglyc\u00e9rides",
+            "D. Il est utilis\u00e9 par la glande corticosurr\u00e9nale pour la synth\u00e8se des hormones corticost\u00e9ro\u00efdes.",
+            "E. Il est utilis\u00e9 par les gonades pour la synth\u00e8se d'hormones sexuelles"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 20,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux corps c\u00e9toniques:",
+        "options": [
+            "A. Ils sont repr\u00e9sent\u00e9s par l'ac\u00e9tone, l'acide palmitique et l'acide b\u00e9ta- hydroxybutyrique",
+            "B. Ils sont repr\u00e9sent\u00e9s par l'ac\u00e9tone, l'acide ac\u00e9toac\u00e9tique et l'acide b\u00eata- hydroxybutyrique.",
+            "C. Ils sont synth\u00e9tis\u00e9s (c\u00e9tose) dans les mitochondries h\u00e9patiques",
+            "D. Ils sont oxyd\u00e9s (c\u00e9tolyse) dans les mitochondries h\u00e9patiques",
+            "E. Ils sont lib\u00e9r\u00e9s de la cellule h\u00e9patique dans le plasma (c\u00e9ton\u00e9mie) et sont \u00e9limin\u00e9s dans l'urine (c\u00e9tonurie)"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 21,
+        "question": "Laquelle des hormones suivantes a un effet lipolytique?",
+        "options": [
+            "A. Insuline",
+            "B. Adr\u00e9naline",
+            "C. Thyroxine",
+            "D. Hormone somatotrope",
+            "E. Triiodothyronine"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 22,
+        "question": "S\u00e9lectionnez les associations correctes:",
+        "options": [
+            "A. \u00c9rythropo\u00ef\u00e8se - angiotensine",
+            "B. Transmission de l'influx nerveux - m\u00e9diateurs chimiques",
+            "C. Maintien de l'\u00e9quilibre acido-basique - syst\u00e8mes tampons",
+            "D. Contractilit\u00e9 musculaire - myoglobine",
+            "E. Glycolyse ana\u00e9robie - phosphorilation oxydante"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 23,
+        "question": "Les acides amin\u00e9s suivants sont utilis\u00e9s dans le processus de synth\u00e8se des prot\u00e9ines:",
+        "options": [
+            "A. Essentiel et non essentiel",
+            "B. R\u00e9sultant de la lipolyse",
+            "C. R\u00e9sultant de la glycose",
+            "D. R\u00e9sultant du catabolisme des prot\u00e9ines",
+            "E. D'origine alimentaire"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 24,
+        "question": "Les substances suivantes r\u00e9sultent du processus de d\u00e9samination oxydative des acides amin\u00e9s:",
+        "options": [
+            "A. Acides gras par \u00e9limination d'un groupe amine",
+            "B. C\u00e9toacides pouvant \u00eatre compl\u00e8tement oxyd\u00e9s en H2O et CO2",
+            "C. C\u00e9toacides pouvant \u00eatre utilis\u00e9s pour reconstituer certains acides gras par transamination",
+            "D. Ammoniac, toxique m\u00eame en petites concentrations",
+            "E. Ammoniac, neutralis\u00e9 par sa transformation en ur\u00e9e (ur\u00e9e gen\u00e8se)"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 25,
+        "question": "L'ammoniac est une substance toxique:",
+        "options": [
+            "A. \u00c9limin\u00e9 par l'urine, sous forme de sels d'ammoniac",
+            "B. \u00c9limin\u00e9 par l'urine, sous forme de glutamine",
+            "C. Transform\u00e9 en ur\u00e9e, dans le foie",
+            "D. Transform\u00e9 en glutamine, dans le foie",
+            "E. Transform\u00e9 en glutamine, dans le syst\u00e8me nerveux central"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 26,
+        "question": "Le catabolisme des prot\u00e9ines chez l'adulte est stimul\u00e9 par les hormones suivantes:",
+        "options": [
+            "A. Insuline",
+            "B. Hormone somatotrope",
+            "C. Ac\u00e9tylcholine",
+            "D. Thyroxine",
+            "E. Cortisol"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 27,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant l'ad\u00e9nosine triphosphate:",
+        "options": [
+            "A. Il est hydrolys\u00e9 par l'actomyosine, avec lib\u00e9ration d'\u00e9nergie",
+            "B. Il ne peut pas \u00eatre obtenu par glycolyse ana\u00e9robie",
+            "C. Il est impliqu\u00e9 dans la contraction et la relaxatine de la fibre musculaire",
+            "D. Par l'hydrolyse d'une liaison phosphate macroergique, l'ad\u00e9nosine triphosphate est transform\u00e9 en ad\u00e9nosine diphosphate, avec lib\u00e9ration d'\u00e9nergie",
+            "E. Par hydrolyse d\u2019une liaison phosphate macroergique, l'ad\u00e9nosine diphosphate se transforme en ad\u00e9nosine triphosphate, avec lib\u00e9ration d\u2019\u00e9nergie"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 28,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au m\u00e9tabolisme basal:",
+        "options": [
+            "A. Il repr\u00e9sente l'absorption minimale d'\u00e9nergie n\u00e9cessaire pour maintenir des fonctions vitales",
+            "B. Il est d\u00e9termin\u00e9 par calorim\u00e9trie",
+            "C. Il est \u00e9valu\u00e9 dans des conditions de repos physique, psychique et alimentaire et \u00e0 une temp\u00e9rature de confort.",
+            "D. La valeur moyenne varie selon l'\u00e2ge, le sexe et le poids",
+            "E. La valeur du m\u00e9tabolisme basal ne peut pas \u00eatre influenc\u00e9e par des facteurs physiologiques et pathologiques"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 29,
+        "question": "L\u2019absorption d\u2019\u00e9nergie par le corps pour maintenir les fonctions vitales",
+        "options": [
+            "est stimul\u00e9e par:",
+            "A. Thyroxine",
+            "B. Le syst\u00e8me autonome sympathique",
+            "C. Le syst\u00e8me autonome parasympathique",
+            "D. Insuline"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 30,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au bilan \u00e9nerg\u00e9tique n\u00e9gatif:",
+        "options": [
+            "A. Il exprime une condition de d\u00e9s\u00e9quilibre m\u00e9tabolique",
+            "B. Il se produit lorsque le r\u00e9gime alimentaire fournit un apport calorique inf\u00e9rieur \u00e0 la production d'\u00e9nergie",
+            "C. Il se produit lorsque le r\u00e9gime alimentaire fournit un apport calorique sup\u00e9rieur \u00e0 la production d'\u00e9nergie",
+            "D. Il se produit lorsque le corps utilise des substances de r\u00e9serve (glycog\u00e8ne, lipides) et des prot\u00e9ines structurelles",
+            "E. Il se produit lorsque les r\u00e9serves de lipides augmentent"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 31,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la thermogen\u00e8se:",
+        "options": [
+            "A. Elle repr\u00e9sente le m\u00e9canisme de production de chaleur",
+            "B. Elle est contr\u00f4l\u00e9e par le centre thermog\u00e9n\u00e9tique de l'hypothalamus ant\u00e9rieur",
+            "C. Elle est directement stimul\u00e9e par l\u2019augmentation de la temp\u00e9rature des r\u00e9cepteurs froids",
+            "D. Elle est directement stimul\u00e9e par la diminution de la temp\u00e9rature du sang dans l'hypothalamus",
+            "E. La diminution de la temp\u00e9rature stimule le catabolisme oxydatif des glucides et des lipides"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 32,
+        "question": "La thermogen\u00e8se et l\u2019adaptation au froid du corps sont obtenues par:",
+        "options": [
+            "A. L'augmentation du m\u00e9tabolisme basal",
+            "B. L'augmentation du tonus des muscles lisses",
+            "C. La stimulation de la s\u00e9cr\u00e9tion d'adr\u00e9naline dans la glande cortico surr\u00e9nale",
+            "D. La stimulation de la s\u00e9cr\u00e9tion d'adr\u00e9naline dans la glande surr\u00e9nale m\u00e9dullaire",
+            "E. La stimulation de la s\u00e9cr\u00e9tion de thyroxine en tant qu\u2019hormone productrice de chaleur"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 33,
+        "question": "La thermolyse implique:",
+        "options": [
+            "A. La diminution du m\u00e9tabolisme basal",
+            "B. L'augmentation du tonus musculaire stri\u00e9",
+            "C. Vassoconstriction p\u00e9riph\u00e9rique",
+            "D. Vassodilatation p\u00e9riph\u00e9rique",
+            "E. Stimulation de la s\u00e9cr\u00e9tion des glandes sudoripares"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 34,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects faisant r\u00e9f\u00e9rence \u00e0 un r\u00e9gime alimentaire appropri\u00e9:",
+        "options": [
+            "A. Il n\u00e9cessite un apport alimentaire diff\u00e9renci\u00e9 selon l'\u00e2ge et le type d'activit\u00e9",
+            "B. Il maintient la sant\u00e9",
+            "C. Il induit une diminution \u00e0 long terme de l'immunit\u00e9 corporelle",
+            "D. Il r\u00e9duit de 0,05% le risque de troubles cardiovasculaires",
+            "E. Il r\u00e9duit de 50% le risque de troubles cardiovasculaires"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 10,
+        "id": 35,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au centre de la faim:",
+        "options": [
+            "A. Il est situ\u00e9 dans l'hypothalamus lat\u00e9ral",
+            "B Il est situ\u00e9 dans l'hypothalamus ventrom\u00e9dial",
+            "C. Il contr\u00f4le les mouvements appropri\u00e9s du tube digestif pendant le repas",
+            "D. Il devient extr\u00eamement actif lorsque les d\u00e9p\u00f4ts de substances nutritives dans l\u2019organisme tombent au-dessous de la normale.",
+            "E. Il d\u00e9clenche l'app\u00e9tit"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    }
+]

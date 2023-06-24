@@ -1,0 +1,510 @@
+[
+    {
+        "chapitre": 11,
+        "id": 1,
+        "question": "L'appareil g\u00e9nital f\u00e9minin comprend:",
+        "options": [
+            "A. La glande mammaire",
+            "B. Les trompes de Fallope",
+            "C. L'ut\u00e9rus",
+            "D. Le vagin",
+            "E. L'ovaire"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 2,
+        "question": "Les follicules ovariens sont repr\u00e9sent\u00e9s par:",
+        "options": [
+            "A. Follicules secondaires (de Graaf)",
+            "B. Follicules primordials",
+            "C. Follicules primaires",
+            "D. Follicules secondaires",
+            "E. Follicules matures (de Graaf)"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 3,
+        "question": "La vascularisation des trompes de Fallope est assur\u00e9e par:",
+        "options": [
+            "A. Branches art\u00e9rielles du tronc coeliaque",
+            "B. L'art\u00e8re ovarienne",
+            "C. La veine cave sup\u00e9rieure",
+            "D. L'art\u00e8re ut\u00e9rine",
+            "E. La veine iliaque externe"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 4,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la structure de l'ut\u00e9rus:",
+        "options": [
+            "A. Le myom\u00e8tre repr\u00e9sente la couche externe de l'ut\u00e9rus",
+            "B. La membrane s\u00e9reuse recouvre le corps de l'ut\u00e9rus",
+            "C. La membrane musculaire est aussi appel\u00e9e myom\u00e8tre",
+            "D. La membrane muqueuse est une couche fonctionnelle",
+            "E. L'endom\u00e8tre recouvre la cavit\u00e9 ut\u00e9rine"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 5,
+        "question": "L'appareil g\u00e9nital masculin comprend:",
+        "options": [
+            "A. L\u2019uret\u00e8re",
+            "B. Les testicules",
+            "C. Les spermatozo\u00efdes",
+            "D. La prostate",
+            "E. Les organes g\u00e9nitaux externs"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 6,
+        "question": "Les glandes auxiliaires de l'appareil reproducteur masculin sont:",
+        "options": [
+            "A. Les testicules",
+            "B. Les v\u00e9sicules s\u00e9minales",
+            "C. La prostate",
+            "D. L\u2019\u00e9pididyme",
+            "E. Les glandes bulbaires et ur\u00e9trales"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 7,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 l'\u00e9pididyme:",
+        "options": [
+            "A. Il appartient aux canaux s\u00e9minaux",
+            "B. Il a la forme d'une virgule",
+            "C. C'est une partie des bourses scrotales",
+            "D. Il contient le canal de l\u2019\u00e9pididyme",
+            "E. C'est un organe g\u00e9nital m\u00e2le externe"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 8,
+        "question": "Le testicule a:",
+        "options": [
+            "A. Une membrane externe blanc nacr\u00e9, tunica albuginea",
+            "B. Le parenchyme testiculaire qui d\u00e9limite les lobules",
+            "C. Lobules contenant 2 ou 3 tubules contourn\u00e9s s\u00e9minif\u00e8res",
+            "D. Plus de 500 lobules pour chaque testicule",
+            "E. Septa conjonctifs \u00e0 sa surface"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 9,
+        "question": "La vascularisation du testicule est assur\u00e9e par:",
+        "options": [
+            "A. L'art\u00e8re f\u00e9morale",
+            "B. L'art\u00e8re m\u00e9sent\u00e9rique sup\u00e9rieure",
+            "C. La veine cave sup\u00e9rieure",
+            "D. L'art\u00e8re testiculaire",
+            "E. La veine cave inf\u00e9rieure"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 10,
+        "question": "S\u00e9lectionnez l'\u00e9nonc\u00e9 correct relatif \u00e0 la v\u00e9sicule s\u00e9minale:",
+        "options": [
+            "A. C'est un organe situ\u00e9 au dessus de la prostate",
+            "B. C'est un organe ayant un r\u00f4le de s\u00e9cr\u00e9tion",
+            "C. C'est un organe impaire",
+            "D. C'est un organ paire",
+            "E. Il est situ\u00e9 en dessous de la prostate"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 11,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la prostate:",
+        "options": [
+            "A. Il est situ\u00e9 autour de l'uret\u00e8re",
+            "B. C'est une glande auxiliaire de l'appareil g\u00e9nital masculin",
+            "C. C'est un organe glandulaire exocrine",
+            "D. Il s\u00e9cr\u00e8te un fluide qui participe \u00e0 la formation du sperme",
+            "E. C'est un organe paire"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 12,
+        "question": "Les organes g\u00e9nitaux masculins externes sont repr\u00e9sent\u00e9s par:",
+        "options": [
+            "A. La prostate",
+            "B. Le p\u00e9nis",
+            "C. La v\u00e9sicule s\u00e9minale",
+            "D. Les glandes bulbaires et ur\u00e8trales",
+            "E. L'ur\u00e8tre masculin"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 13,
+        "question": "Parmi les affirmations suivantes faisant r\u00e9f\u00e9rence \u00e0 la formation de follicules matures, lesquelles sont vraies?",
+        "options": [
+            "A. \u00c0 la naissance, chaque ovaire contient quelques centaines de milliers de follicules ovariens primordiaux",
+            "B. Pendant la p\u00e9riode fertile de la femme, seuls 300 \u00e0 400 follicules primordiaux atteignent leur maturit\u00e9",
+            "C. La formation de follicules matures, un follicule par mois, commence avec la pubert\u00e9",
+            "D. La formation de follicules matures cesse avec la m\u00e9nopause",
+            "E. La formation de follicules matures commence dans la p\u00e9riode f\u0153tale"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 14,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 l'ovogen\u00e8se qui a lieu dans les trompes de Fallope:",
+        "options": [
+            "A. Les ovocytes de type I subissent une division m\u00e9iotique qui cr\u00e9e deux cellules haplo\u00efdes",
+            "B. Les ovocytes de type II subissent une division mitotique qui cr\u00e9e deux cellules haplo\u00efdes",
+            "C. Les ovocytes de type II se divisent en pr\u00e9-ovule et en premier globe polaire",
+            "D. Le pr\u00e9-ovule, sans division, donne naissance \u00e0 l'ovule fertilisable haplo\u00efde",
+            "E. L\u2019ovule fertilisable se d\u00e9place le long de la trompe de Fallope propuls\u00e9e par les cils de la muqueuse"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 15,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la fonction endocrine de l'ovaire:",
+        "options": [
+            "A. Elle est r\u00e9alis\u00e9e par la th\u00e8que externe des follicules ovariens.",
+            "B. Elle est r\u00e9alis\u00e9e par les cellules du corps jaune",
+            "C. Les follicules ovariens s\u00e9cr\u00e8tent progest\u00e9rone (en grande quantit\u00e9) au cours du premier stade du cycle ovarien",
+            "D. Le corps jaune s\u00e9cr\u00e8te de l'\u0153strone, de l'\u0153stradiol et de l'\u0153striol (en grande quantit\u00e9) au cours du deuxi\u00e8me stade du cycle ovarien",
+            "E. Le corps jaune s\u00e9cr\u00e8te progest\u00e9rone en grande quantit\u00e9 et des \u0153strog\u00e8nes (en petite quantit\u00e9) au cours du deuxi\u00e8me stade du cycle ovarien"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 16,
+        "question": "Les hormones \u0153strog\u00e8nes sont s\u00e9cr\u00e9t\u00e9es par:",
+        "options": [
+            "A. Les cellules folliculaires - pendant la maturation du follicule ovarien",
+            "B. Les cellules du corps jaune - apr\u00e8s l'ovulation",
+            "C. Le placenta - pendant la grossesse",
+            "D. Les glandes surr\u00e9nales - chez les hommes et les femmes",
+            "E. Les cellules du corps jaune - au cours des trois derniers mois de la grossesse"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 17,
+        "question": "S\u00e9lectionnez les affirmations incorrectes faisant r\u00e9f\u00e9rence \u00e0 la s\u00e9cr\u00e9tion d'hormones \u0153strog\u00e8nes:",
+        "options": [
+            "A. Elle est stimul\u00e9e par l'hormone stimulante du follicule",
+            "B. Elle est inhib\u00e9e par l'hormone lut\u00e9inisante",
+            "C. Elle stimule la prolif\u00e9ration de la muqueuse ut\u00e9rine et des muscles",
+            "D. Elle stimule le d\u00e9veloppement des glandes mammaires",
+            "E. Elle stimule le d\u00e9veloppement de caract\u00e9ristiques secondaires chez les femmes"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 18,
+        "question": "La progest\u00e9rone (lut\u00e9ine) est synth\u00e9tis\u00e9e par:",
+        "options": [
+            "A. Les cellules folliculaires (en grande quantit\u00e9) - pendant la maturation du follicule ovarien",
+            "B. Les cellules du corps jaune - avant l'ovulation",
+            "C. Les cellules du corps jaune - dans les premiers mois de la grossesse",
+            "D. La placenta - pendant la grossesse",
+            "E. Le cortex surr\u00e9nalien - chez les hommes et les femmes"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 19,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au contr\u00f4le exerc\u00e9 sur la fonction ovarienne:",
+        "options": [
+            "A. L'hormone folliculo-stimulante (FSH) stimule la maturation d'un follicule ovarien tous les mois chez la femme fertile",
+            "B. L'hormone folliculo-stimulante stimule la s\u00e9cr\u00e9tion d'hormones \u0153strog\u00e8nes, \u00e9galement appel\u00e9es hormones de la \u00abmaternit\u00e9\u00bb.",
+            "C. L'hormone lut\u00e9inisante (LH) d\u00e9clenche l'expulsion de l'ovocyte de type II d'un follicule mature",
+            "D. L'hormone lut\u00e9inisante stimule la formation du corps jaune qui r\u00e9sulte de la transformation du follicule restant qui a effectu\u00e9 l'ovulation",
+            "E. L'hormone lut\u00e9inisante stimule la s\u00e9cr\u00e9tion de progest\u00e9rone, \u00e9galement appel\u00e9e hormone de la \u00abf\u00e9minit\u00e9\u00bb."
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 20,
+        "question": "Le cycle ovarien comporte deux phases",
+        "options": [
+            "A. Pr\u00e9ovulatoire et postovulatoire s\u00e9par\u00e9s par le moment de l'ovulation \u00e0 partir du 14\u00e8me jour du cycle ovarien",
+            "B. Pr\u00e9ovulatoire qui dure du 1er au 14e jour du cycle ovarien",
+            "C. Soin lut\u00e9al qui dure du 1er au 14e jour du cycle ovarien",
+            "D. Postovulatoire qui dure du jour 15e au premier jour de la menstruation",
+            "E. Folliculaire qui dure du jour 15e au premier jour de la menstruation"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 21,
+        "question": "Il est vrai que dans la phase folliculaire du cycle ovarien:",
+        "options": [
+            "A. L'hormone folliculo-stimulante contr\u00f4le la pr\u00e9paration du follicule pour l'ovulation",
+            "B. Le follicule s\u00e9cr\u00e8te des \u0153strog\u00e8nes sous l'action de l'hormone stimulante du follicule",
+            "C. La r\u00e9gulation de la r\u00e9troaction n\u00e9gative \u00e0 la r\u00e9troaction positive des modifications de l'axe hypothalamo-hypophysaire-ovarien",
+            "D. La s\u00e9cr\u00e9tion d\u2019\u0153strog\u00e8ne et de progest\u00e9rone stimule la s\u00e9cr\u00e9tion de gonadotrophine ad\u00e9nohypophysaire",
+            "E. La faible s\u00e9cr\u00e9tion de l'hormone lut\u00e9inisante \u00e0 la fin de la phase folliculaire d\u00e9clenche l'ovulation"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 22,
+        "question": "Il est vrai qu'entre le quinzi\u00e8me et le vingt-huiti\u00e8me jour du cycle ovarien:",
+        "options": [
+            "A. Se produit l'ovulation",
+            "B. Se produit l'ovogen\u00e8se",
+            "C. Le follicule ovarien m\u00fbrit",
+            "D. L'endom\u00e8tre double son \u00e9paisseur",
+            "E. La couche superficielle de la muqueuse ut\u00e9rine est \u00e9limin\u00e9e \u00e0 travers le vagin en m\u00eame temps que l'ovule non d\u00e9cant\u00e9"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 23,
+        "question": "En l'absence de f\u00e9condation, il est vrai que:",
+        "options": [
+            "A. Le follicule ovarien est transform\u00e9 en corps albicans",
+            "B. L'ovule est \u00e9limin\u00e9 les 19e et 20e jours du cycle ovarien.",
+            "C. La s\u00e9cr\u00e9tion du corps jaune diminue brusquement au 26\u00e8me jour du cycle ovarien",
+            "D. Le corpus luteum r\u00e9gresse au bout de 10 jours et se transforme en corps albicans",
+            "E. Il y a des alt\u00e9rations vasculaires dans la muqueuse ut\u00e9rine, suivies d'une n\u00e9crose et d'une h\u00e9morragie"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 24,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au cycle menstruel:",
+        "options": [
+            "A. Il a lieu dans la muqueuse ut\u00e9rine",
+            "B. C'est le r\u00e9sultat de l'action des hormones sexuelles pendant les phases du cycle ovarien",
+            "C. Il dure 28 jours et chevauche le cycle ovarien.",
+            "D. Il a trois phases: menstruel, prolif\u00e9ratif et s\u00e9cr\u00e9toire",
+            "E. Il a lieu dans la couche musculaire de l'ut\u00e9rus"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 25,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la spermatogen\u00e8se:",
+        "options": [
+            "A. C'est la fonction endocrine du testicule",
+            "B. Elle commence \u00e0 la pubert\u00e9",
+            "C. Elle diminue avec l'\u00e2ge",
+            "D. Elle est le r\u00e9sultat de processus complexes de division et de maturation  des cellules germinales primitives (spermatides).",
+            "E. Elle est le r\u00e9sultat de processus complexes de division et de maturation des cellules germinales primitives (spermatogonies)."
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 26,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au sperme (spermatozo\u00efdes):",
+        "options": [
+            "A. La t\u00eate des spermatozo\u00efdes est un acrosome avec des enzymes qui se lysent avec la membrane de l'ovocyte de type I.",
+            "B. La partie interm\u00e9diaire des spermatozo\u00efdes contient des mitochondries (source d' ad\u00e9nosintriphosphate)",
+            "C. La queue des spermatozo\u00efdes est repr\u00e9sent\u00e9e par un cil qui en assure la mobilit\u00e9.",
+            "D. Dans le liquide s\u00e9minal s\u00e9cr\u00e9t\u00e9 par les glandes auxiliaires, les spermatozo\u00efdes sont immobiles",
+            "E. Le liquide s\u00e9minal contient un grand nombre de spermatozo\u00efdes (1,5 \u00e0 2000 / ml)."
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 27,
+        "question": "Le testicule s\u00e9cr\u00e8te:",
+        "options": [
+            "A. Hormones androgynes",
+            "B. La testost\u00e9rone, principalement",
+            "C. Une hormone lipidique \u00e0 structure st\u00e9rolique",
+            "D. Estrog\u00e8nes, en petite quantit\u00e9",
+            "E. Progest\u00e9rone, en petite quantit\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 28,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la testost\u00e9rone:",
+        "options": [
+            "A. C'est le produit des cellules interstitielles de Leydig situ\u00e9es dans le parenchyme testiculaire",
+            "B. C'est le produit de s\u00e9cr\u00e9tion des tubes s\u00e9minif\u00e8res contourn\u00e9s du testicule",
+            "C. Il repr\u00e9sente la s\u00e9cr\u00e9tion exocrine des testicules, stimul\u00e9e par l'hormone folliculostimulante. (FSH)",
+            "D. Il repr\u00e9sente la s\u00e9cr\u00e9tion endocrine des testicules, stimul\u00e9e par l'hormone lut\u00e9inisante.(LH)",
+            "E. C'est une hormone androgyne \u00e9galement synth\u00e9tis\u00e9e en petites quantit\u00e9s par la glande surr\u00e9nale, chez l'homme et la femme."
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 29,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la f\u00e9condation (conception):",
+        "options": [
+            "A. Il se d\u00e9roule dans les trompes de Fallope",
+            "B. Il en r\u00e9sulte la formation d'un zygote",
+            "C. \u00c7a se passe dans le vagin",
+            "D. Il a besoin d'un seul spermatozo\u00efde fertilisant",
+            "E. Il implique la nidation dans l'ut\u00e9rus de l'ovule f\u00e9cond\u00e9, qui devient un embryon"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 11,
+        "id": 30,
+        "question": "Les annexes embryonnaires sont repr\u00e9sent\u00e9es par:",
+        "options": [
+            "A. Amnios",
+            "B. Sac vitellin",
+            "C. Zygote",
+            "D. Allanto\u00efde",
+            "E. Placenta"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    }
+]

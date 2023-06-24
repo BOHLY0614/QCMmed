@@ -1,0 +1,1288 @@
+[
+    {
+        "chapitre": 2,
+        "id": 1,
+        "question": "Le syst\u00e8me nerveux autonome contr\u00f4le l'activit\u00e9 de:",
+        "options": [
+            "A. Les muscles squelettiques",
+            "B. Les muscles visc\u00e9raux",
+            "C. Glandes (seulement les exocrines)",
+            "D. Glandes (seulement celles endocrines)",
+            "E. Glandes (exocrines et endocrines)"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 2,
+        "question": "Le syst\u00e8me nerveux central comprend:",
+        "options": [
+            "A. Enc\u00e9phale et nerfs cr\u00e2niens",
+            "B. Enc\u00e9phale et nerfs spinaux",
+            "C. Enc\u00e9phale et moelle \u00e9pini\u00e8re",
+            "D. Moelle \u00e9pini\u00e8re et nerfs cr\u00e2niens",
+            "E. Moelle \u00e9pini\u00e8re et nerfs spinaux"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 3,
+        "question": "Selon le nombre des prolongements, les neurones peuvent \u00eatre:",
+        "options": [
+            "A. Pseudobipolaire",
+            "B. Pseudomultipolaire",
+            "C. Unipolaire",
+            "D. Bipolaire",
+            "E. Multipolaire"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 4,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs aux neurones bipolaires:",
+        "options": [
+            "A. Ils peuvent \u00eatre ronds, ovales ou en forme de fuseau",
+            "B. Ils peuvent \u00eatre \u00e9toil\u00e9s, pyramidales ou piriformes",
+            "C. Ils ont un prolongement qui se divise en un T",
+            "D. Ils ont plusieurs prolongements dendritiques",
+            "E. Ils ont deux prolongements qui partent du m\u00eame p\u00f4le de la cellule"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 5,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs aux motoneurones:",
+        "options": [
+            "A. Ils sont reli\u00e9s \u00e0 leurs organes effecteurs par leurs dendrites",
+            "B. Ils sont reli\u00e9s \u00e0 leurs organes effecteurs par leurs axones",
+            "C. Ils re\u00e7oivent des stimuli de l'environnement int\u00e9rieur ou ext\u00e9rieur du corps par leurs axones",
+            "D. Ils re\u00e7oivent des stimuli de l'environnement int\u00e9rieur ou ext\u00e9rieur du corps \u00e0 travers leurs dendrites",
+            "E. Ils peuvent \u00eatre divis\u00e9s en neurones visceromoteurs et somatomoteurs"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 6,
+        "question": "Le neurone est constitu\u00e9 de:",
+        "options": [
+            "A. Corps cellulaire",
+            "B. P\u00e9ricaryon",
+            "C. Une ou plusieurs prolongements",
+            "D. Un ou plusieurs dendrites",
+            "E. Un ou plusieurs axones"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 7,
+        "question": "Le corps neuronal est d\u00e9limit\u00e9 par:",
+        "options": [
+            "A. Membrane plasmique",
+            "B. Neurilemme",
+            "C. Neuroplasme",
+            "D. Une fine membrane",
+            "E. Une membrane \u00e9paisse"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 8,
+        "question": "Le neurone contient les organites sp\u00e9cifiques suivants:",
+        "options": [
+            "A. Corps tigro\u00efdes",
+            "B. Corps Nissl",
+            "C. Ribosomes",
+            "D. Neurofibrilles",
+            "E. Centrosomes"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 9,
+        "question": "Les dendrites sont des prolongements:",
+        "options": [
+            "A. Des cellules de Schwann",
+            "B. Des cellules \u00e9pendymales",
+            "C. Des astrocytes",
+            "D. Des neurones",
+            "E. Plus \u00e9pais dans leur segment initial"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 10,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s correctes se r\u00e9f\u00e9rant \u00e0 l'axone:",
+        "options": [
+            "A. Il a une membrane appel\u00e9e axolemme qui joue un r\u00f4le important dans la propagation de l'influx nerveux",
+            "B. Tout au long de son parcours, il projette des collat\u00e9rales obliques dans sa direction",
+            "C. Tout au long de son parcours, il projette des collat\u00e9rales parall\u00e8les \u00e0 sa direction",
+            "D. Tout au long de son parcours, il projette des collat\u00e9rales perpendiculaires sur sa direction",
+            "E. Il se ramifie dans sa partie terminale"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 11,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s correctes se r\u00e9f\u00e9rant \u00e0 la gaine de my\u00e9line:",
+        "options": [
+            "A. On peut le trouver dans les axones de diam\u00e8tre inf\u00e9rieur \u00e0 2 microns",
+            "B. On peut le trouver dans les fibres postganglionnaires",
+            "C. Il manque dans les fibres postganglionnaires",
+            "D. Il joue le r\u00f4le de l'isolation thermique",
+            "E. Il acc\u00e9l\u00e8re la conduction de l'influx nerveux"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 12,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 l\u2019axone des neurones du syst\u00e8me nerveux p\u00e9riph\u00e9rique:",
+        "options": [
+            "A. Il a une gaine de my\u00e9line produite par les cellules de Schwann",
+            "B. Il a une gaine de my\u00e9line produite par les oligodendrocytes",
+            "C. Il a une gaine de Henle",
+            "D. Il n'a pas de gaine Schwann",
+            "E. Il n'a pas de gaine de Henle"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 13,
+        "question": "En ce qui concerne le gaine de Henle, il est vrai qu\u2019il: A",
+        "options": [
+            "B. Appartient aux gaines qui recouvrent l'axone des neurones du syst\u00e8me nerveux central",
+            "C. Il enveloppe la gaine de my\u00e9line",
+            "D. Il s\u00e9pare la membrane plasmique d'une cellule de Schwann du tissu \u00e9pith\u00e9lial environnant",
+            "E. Il joue un r\u00f4le dans la perm\u00e9abilit\u00e9 et la r\u00e9sistance",
+            ""
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 14,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la cellule nerveuse:",
+        "options": [
+            "A. Elle est caract\u00e9ris\u00e9 par l'excitabilit\u00e9 et la conductivit\u00e9",
+            "B. Elle est caract\u00e9ris\u00e9 uniquement par l'excitabilit\u00e9",
+            "C. Elle est caract\u00e9ris\u00e9 uniquement par la conductivit\u00e9",
+            "D. Elle peut g\u00e9n\u00e9rer un potentiel d'action qui se propage",
+            "E. Elle peut g\u00e9n\u00e9rer un potentiel de membrane local qui ne se propage pas"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 15,
+        "question": "La vitesse de conduction de l'influx nerveux est:",
+        "options": [
+            "A. 10 m\u00e8tres / seconde en fibres my\u00e9linis\u00e9es",
+            "B. 10 m\u00e8tres / seconde en fibres non my\u00e9linis\u00e9es",
+            "C. 100 m\u00e8tres / seconde en fibres my\u00e9linis\u00e9es",
+            "D. 100 m\u00e8tres / seconde en fibres non my\u00e9linis\u00e9es",
+            "E. 100 m\u00e8tres / minute en fibres my\u00e9linis\u00e9es"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 16,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la synapse neuromusculaire:",
+        "options": [
+            "A. Il ressemble \u00e0 la synapse neuroneuronale",
+            "B. C'est compl\u00e8tement diff\u00e9rent de la synapse neuroneuronale",
+            "C. Il est similaire \u00e0 la synapse neuroneuronale",
+            "D. On l'appelle plaque motrice ou jonction neuromusculaire",
+            "E. On l'appelle plaque sensorielle ou jonction neurosensorielle"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 17,
+        "question": "Un r\u00e9flexe repr\u00e9sente:",
+        "options": [
+            "A. La r\u00e9action des centres nerveux \u00e0 la stimulation d'une zone effectrice",
+            "B. La r\u00e9action des centres nerveux \u00e0 la stimulation d'une zone r\u00e9ceptrice",
+            "C. Une structure excitatrice qui r\u00e9pond aux stimuli avec des variations de potentiel graduelles",
+            "D. La base anatomique de l'action r\u00e9flexe",
+            "E. Une structure non excitatrice qui ne r\u00e9pond pas aux stimuli"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 18,
+        "question": "Les affirmations suivantes sont vraies en r\u00e9f\u00e9rence \u00e0 l'arc r\u00e9flexe:",
+        "options": [
+            "A. Il repr\u00e9sente le m\u00e9canisme de fonctionnement fondamental du syst\u00e8me nerveux central",
+            "B. Il repr\u00e9sente le m\u00e9canisme de fonctionnement fondamental du syst\u00e8me nerveux p\u00e9riph\u00e9rique",
+            "C. Il repr\u00e9sente la base anatomique de l'action r\u00e9flexe",
+            "D. Il est compos\u00e9 de trois composants anatomiques",
+            "E. Il est compos\u00e9 de 5 composants anatomiques"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 19,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux exterorecepteurs:",
+        "options": [
+            "A. Ils re\u00e7oivent des stimuli de l'int\u00e9rieur du corps",
+            "B. Ils re\u00e7oivent des stimuli des muscles, des tendons et des articulations",
+            "C. Ils re\u00e7oivent des stimuli de l'ext\u00e9rieur du corps",
+            "D. Ils informent sur la position du corps",
+            "E. Ils permettent le contr\u00f4le du mouvement"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 20,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au chimior\u00e9cepteurs:",
+        "options": [
+            "A. Ils sont stimul\u00e9s par la lumi\u00e8re",
+            "B. Ils sont stimul\u00e9s chimiquement",
+            "C. Ils r\u00e9pondent aux variations de temp\u00e9rature",
+            "D. Ils contiennent des nocicepteurs",
+            "E. Ils sont situ\u00e9s au niveau de l'\u00e9pith\u00e9lium olfactif"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 21,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au thermor\u00e9cepteurs:",
+        "options": [
+            "A. Ils sont stimul\u00e9s par la d\u00e9formation de la membrane cellulaire",
+            "B. Ce sont des r\u00e9cepteurs tactiles, de pression et de vibration",
+            "C. Ils r\u00e9pondent aux variations de temp\u00e9rature",
+            "D. Ils sont des terminaisons nerveuses libres",
+            "E. Ils se trouvent dans les cellules visuelles \u00e0 c\u00f4ne et les cellules visuelles \u00e0 b\u00e2tonnet"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 22,
+        "question": "Le voie eff\u00e9rente de l\u2019arc r\u00e9flexe repr\u00e9sente:",
+        "options": [
+            "A. Axones des neurones moteurs somatiques par lesquels la commande est envoy\u00e9e \u00e0 l'organe effecteur",
+            "B. Axones des motoneurones v\u00e9g\u00e9tatifs par lesquels la commande est transmise \u00e0 l'organe effecteur",
+            "C. Dendrites de motoneurones somatiques par lesquels la commande est transmise \u00e0 l'organe effecteur",
+            "D. Dendrites de motoneurones v\u00e9g\u00e9tatifs par lesquels la commande \u00e0 l'organe effecteur est transmise avec des attributs fonctionnels sp\u00e9cifiques",
+            "E. L'un des principaux niveaux du syst\u00e8me nerveux central"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 23,
+        "question": "La moelle \u00e9pini\u00e8re a:",
+        "options": [
+            "A. Deux parties plus volumineuses au niveau cervical et lombaire",
+            "B. Deux parties plus volumineuses au niveau thoracique et lombaire",
+            "C. Deux parties plus volumineuses au niveau cervicale et sacr\u00e9e",
+            "D. Deux parties plus volumineuses au niveau du filum terminale",
+            "E. Deux intumescences (cervicale et lombaire)"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 24,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 l'arachno\u00efde:",
+        "options": [
+            "A. Il a une structure fibreuse, r\u00e9sistant",
+            "B. Il a une structure conjonctive",
+            "C. C'est une membrane conjonctivo-vasculaire",
+            "D. Il est s\u00e9par\u00e9 des parois du canal vert\u00e9bral par l'espace \u00e9pidural",
+            "E. Il est s\u00e9par\u00e9 du pia mater par un espace contenant le liquide c\u00e9phalo-rachidien (LCR)"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 25,
+        "question": "En ce qui concerne la mati\u00e8re grise de la moelle \u00e9pini\u00e8re, il est vrai que:",
+        "options": [
+            "A. Elle est dispos\u00e9e au centre",
+            "B. Elle est situ\u00e9e \u00e0 la p\u00e9riph\u00e9rie",
+            "C. En section verticale, elle a la forme de la lettre H",
+            "D. En section transversalee, elle a la forme de la lettre H",
+            "E. Il se compose des corps de neurones"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 26,
+        "question": "En se r\u00e9f\u00e9rant aux cornes post\u00e9rieures de la moelle \u00e9pini\u00e8re, il est vrai qu\u2019elles:",
+        "options": [
+            "A. Contiennent le syst\u00e8me somatomoteur",
+            "B. Contiennent des neurones des voies sensoriels qui ont la signification d'un deutoneuron",
+            "C.Contiennent des neurones des voies sensoriels qui ont la signification d'un protoneuron",
+            "D. Elles sont plus larges et plus courtes que les cornes anterieures",
+            "E. Contiennent deux types de neurones visc\u00e9romoteurs"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 27,
+        "question": "En cas des voies de la sensibilit\u00e9 thermo-alg\u00e9sique, il est vrai que:",
+        "options": [
+            "A. Le protoneuron est situ\u00e9 dans le ganglion spinal",
+            "B. La dendrite du protoneuron est longue et atteint les r\u00e9cepteurs",
+            "C. La dendrite du protoneuron est courte et atteint les r\u00e9cepteurs",
+            "D. L'axone du protoneuron atteint les r\u00e9cepteurs",
+            "E. L'axone du protoneuron p\u00e9n\u00e8tre dans la moelle \u00e9pini\u00e8re"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 28,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la voie de la sensibilit\u00e9 tactile globale grossi\u00e8re:",
+        "options": [
+            "A. On l'appelle aussi \u00e9picritique",
+            "B. On l'appelle aussi protopathique",
+            "C. Dans la peau, il a des r\u00e9cepteurs repr\u00e9sent\u00e9s par les corpuscules neurotendineux de Golgi et les disques tactiles de Meissner",
+            "D. Dans la peau, il a des effecteurs repr\u00e9sent\u00e9s par des corpuscules neurotendineux de Golgi et des disques tactiles de Meissner",
+            "E. Son protoneuron est situ\u00e9 dans le ganglion spinal"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 29,
+        "question": "Les voies de la sensibilit\u00e9 proprioceptive sont repr\u00e9sent\u00e9es par:",
+        "options": [
+            "A. La voie de la sensibilit\u00e9 protopathique",
+            "B. La voie de la sensibilit\u00e9 \u00e9picritique",
+            "C. La voie de la sensibilit\u00e9 kinesth\u00e9sique (proprioceptif conscient)",
+            "D. La voie de la sensibilit\u00e9 proprioceptive \u00e0 contr\u00f4le du mouvement (proprioceptif inconsciente)",
+            "E. Les voies de la sensibilit\u00e9 interoceptive"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 30,
+        "question": "La voie de la sensibilit\u00e9 proprioceptive \u00e0 contr\u00f4le du mouvement (proprioceptive inconsciente) consiste en:",
+        "options": [
+            "A. Deux tractes",
+            "B. Le tractus spinoc\u00e9r\u00e9belleux dorsal (crois\u00e9; post\u00e9rieur; Gowers)",
+            "C. Le tractus spinoc\u00e9r\u00e9belleux dorsal (direct, post\u00e9rieure, Flechsig)",
+            "D. Le tractus spinoc\u00e9r\u00e9belleux ventral (crois\u00e9, ant\u00e9rieur, Gowers)",
+            "E. Le tractus spinoc\u00e9r\u00e9belleux ventral (direct, ant\u00e9rieur, Flechsig)"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 31,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au faisceau spinoc\u00e9r\u00e9belleux ventral (crois\u00e9; ant\u00e9rieur; Gowers):",
+        "options": [
+            "A. Il a une trajectoire descendante",
+            "B. Il a une trajectoire ascendante",
+            "C. Il traverse le bulbe et atteint le cervelet par le p\u00e9doncule c\u00e9r\u00e9belleux inf\u00e9rieur",
+            "D. Il traverse le bulbe, les pons et le m\u00e9senc\u00e9phale et atteint le cervelet par le p\u00e9doncule c\u00e9r\u00e9belleux sup\u00e9rieur",
+            "E. Il traverse le bulbe, les pons et le m\u00e9senc\u00e9phale et atteint le thalamus"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 32,
+        "question": "Les r\u00e9cepteurs de la voie sensorielle interoceptive sont situ\u00e9s:",
+        "options": [
+            "A. Dans l'\u00e9piderme",
+            "B. Dans les parois des vaisseaux",
+            "C. Dans les parois des organes",
+            "D. Sous forme terminations libres",
+            "E. Sous forme de corpuscules lamellaires"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 33,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au tractus pyramidal direct:",
+        "options": [
+            "A. On l'appelle aussi corticospinal lat\u00e9ral",
+            "B. On l'appelle aussi corticospinal ant\u00e9rieur",
+            "C. Il atteint le cordon lat\u00e9ral de la moelle \u00e9pini\u00e8re",
+            "D. Il atteint le cordon ant\u00e9rieure du m\u00eame c\u00f4t\u00e9",
+            "E. Il est situ\u00e9 pr\u00e8s de la fissure m\u00e9diane"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 34,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux 31 paires de nerfs spinaux:",
+        "options": [
+            "A. 8 appartiennent \u00e0 la r\u00e9gion cervicale",
+            "B. 7 appartiennent \u00e0 la r\u00e9gion cervicale",
+            "C. 12 appartiennent \u00e0 la r\u00e9gion thoracique",
+            "D. 5 se trouvent dans la r\u00e9gion sacr\u00e9e",
+            "E. 5 se trouvent dans la r\u00e9gion coccigienne"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 35,
+        "question": "Il est vrai que la racine post\u00e8rieure des nerfs spinaux:",
+        "options": [
+            "A. Contient les dendrites des neurones visc\u00e9romoteurs de la moiti\u00e9 ventrale de la corne lat\u00e9rale",
+            "B. Contient les dendrites des neurones visc\u00e9romoteurs de la moiti\u00e9 dorsale de la corne lat\u00e9rale",
+            "C. Contient les axones des neurones visc\u00e9romoteurs de la moiti\u00e9 dorsale de la corne lat\u00e9rale",
+            "D. Contient des axones de neurones somatomoteurs",
+            "E. Il contient le ganglion spinal, sur sa trajectoire"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 36,
+        "question": "La fibre autonome sympathique post-ganglionnaire entre dans le nerf spinal \u00e0 travers la branche:",
+        "options": [
+            "A. Sup\u00e9rieure",
+            "B. Inf\u00e9rieure",
+            "C. Blanche communiquante",
+            "D. Grise communiquante",
+            "E. M\u00e9ning\u00e9e"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 37,
+        "question": "La branche grise communicante du nerf spinal permet le passage de la fibre autonome suivante:",
+        "options": [
+            "A. Fibre pr\u00e9ganglionnaire my\u00e9linis\u00e9e",
+            "B. Fibre postganglionnaire my\u00e9linis\u00e9e",
+            "C. Fibre pr\u00e9ganglionnaire non my\u00e9linis\u00e9e",
+            "D. Fibre postganglionnaire non my\u00e9linis\u00e9e",
+            "E. Fibre postganglionnaire sympathique et parasympathique"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 38,
+        "question": "Le r\u00e9flexe rotulien d\u00e9termine:",
+        "options": [
+            "A. La flexion de la cuisse sur le bassin",
+            "B. L'extension de la cuisse sur le bassin",
+            "C. La flexion de la jambe sur la cuisse",
+            "D. L'extension de la jambe sur la cuisse",
+            "E. L'extension du pied"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 39,
+        "question": "Il est vrai que les r\u00e9flexes nociceptifs:",
+        "options": [
+            "A. Sont des r\u00e9flexes de d\u00e9fense",
+            "B. Ont des centres monosynaptiques",
+            "C. Ont des centres polysynaptiques",
+            "D. Ils consistent en le retrait d'un membre en r\u00e9ponse \u00e0 sa stimulation douloureuse",
+            "E. Leurs r\u00e9cepteurs sont situ\u00e9s dans la peau"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 40,
+        "question": "Le tronc c\u00e9r\u00e9bral est constitu\u00e9 de:",
+        "options": [
+            "A. Deux \u00e9tages",
+            "B. Trois \u00e9tages",
+            "C. Bulbe et cervelet",
+            "D. Bulbe, cervelet et m\u00e9senc\u00e9phale",
+            "E. Bulbe, pons et cervelet"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 41,
+        "question": "Au niveau du tronc c\u00e9r\u00e9bral se trouve l'origine des:",
+        "options": [
+            "A. 10 des 12 paires de nerfs cr\u00e2niens",
+            "B. Toutes les paires de nerfs cr\u00e2niens",
+            "C. 10 des 31 paires de nerfs cr\u00e2niens",
+            "D. 10 des 31 paires de nerfs spinaux",
+            "E. 11 des 12 paires de nerfs cr\u00e2niens"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 42,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux nerfs cr\u00e2niens:",
+        "options": [
+            "A. Ils ont un tronc qui se divise en 5 branches quand ils sortent du cr\u00e2ne",
+            "B. Ils sont dispos\u00e9s de mani\u00e8re m\u00e9tam\u00e9trique, comme les nerfs spinaux",
+            "C. Ils diff\u00e8rent des nerfs spinaux en ce qu'ils ne sont pas dispos\u00e9s de mani\u00e8re m\u00e9tam\u00e9trique",
+            "D. Ils ont deux racines (dorsale et ventrale)",
+            "E. Ils n'ont pas deux racines (dorsale et ventrale)"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 43,
+        "question": "Laquelle des affirmations suivantes faisant se r\u00e9f\u00e9rant aux nerfs cr\u00e2niens est vraie?",
+        "options": [
+            "A. Les nerfs I, II et VII sont des nerfs sensoriels",
+            "B. Les nerfs I, II et VIII sont des nerfs moteurs",
+            "C. Les nerfs III, IV, VI, VII et XI sont des nerfs moteurs",
+            "D. Les nerfs III, IV, VI, XI et XII sont des nerfs moteurs",
+            "E. Les nerfs I, II et VII sont des nerfs mixtes"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 44,
+        "question": "En ce qui concerne l'origine des nerfs oculomoteurs, il est vrai que:",
+        "options": [
+            "A. L'origine reelle de leurs fibres motrices r\u00e9side dans le noyau accessoire du m\u00e9senc\u00e9phale",
+            "B. L'origine reelle de leurs fibres motrices r\u00e9side dans le noyau moteur de l'oculomoteur du m\u00e9senc\u00e9phale",
+            "C. L\u2019origine apparente des fibres motrices r\u00e9side dans le noyau moteur de l\u2019oculomoteur du m\u00e9senc\u00e9phale",
+            "D. L'origine apparente des fibres motrices r\u00e9side dans le noyau accessoire du m\u00e9senc\u00e9phale",
+            "E. L'origine reelle des fibres parasympathiques r\u00e9side dans le noyau accessoire du m\u00e9senc\u00e9phale"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 45,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux nerfs trijumeaux:",
+        "options": [
+            "A. Ils repr\u00e9sentent la paire III de nerfs cr\u00e2niens",
+            "B. Ils repr\u00e9sentent la paire V de nerfs cr\u00e2niens",
+            "C. Ils repr\u00e9sentent la paire VII de nerfs cr\u00e2niens",
+            "D. Ils sont des nerfs moteurs",
+            "E. Ils sont des nerfs mixtes"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 46,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au nerf facial:",
+        "options": [
+            "A. Il repr\u00e9sente la paire V de nerfs cr\u00e2niens",
+            "B. Il repr\u00e9sente la paire VII de nerfs cr\u00e2niens",
+            "C. Il est un nerf moteur",
+            "D. Il est un nerf mixte",
+            "E. Il est un nerf sensoriel"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 47,
+        "question": "Lesquels des \u00e9nonc\u00e9s suivants se r\u00e9f\u00e9rant aux nerfs du glosso- pharyngien sont vrais?",
+        "options": [
+            "A. Le premier neurone des fibres sensorielles est situ\u00e9 dans les ganglions le long de la trajectoire nerveuse",
+            "B. Le deutoneuron est situ\u00e9 dans le noyau solitaire du bulbe",
+            "C. Le deutoneuron est situ\u00e9 dans le noyau solitaire du pons",
+            "D. Les fibres sympathiques proviennent du noyau salivaire inf\u00e9rieur du bulbe",
+            "E. Les fibres parasympathiques proviennent du noyau salivaire sup\u00e9rieur du pons"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 48,
+        "question": "Les fibres sensorielles du nerf glosso-pharyngien re\u00e7oivent des sensations gustatives de:",
+        "options": [
+            "A. Le tiers ant\u00e9rieur de la langue",
+            "B. Le tiers moyen de la langue",
+            "C. Les deux tiers ant\u00e9rieurs de la langue",
+            "D. Le tiers post\u00e9rieur de la langue",
+            "E. Les deux tiers post\u00e9rieurs de la langue"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 49,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux nerfs vagues:",
+        "options": [
+            "A. Ils repr\u00e9sentent la paire VIII de nerfs cr\u00e2niens",
+            "B. Ils repr\u00e9sentent la paire X de nerfs cr\u00e2niens",
+            "C. Ils sont aussi appel\u00e9s nerfs pneumogastriques",
+            "D. Ils sont aussi appel\u00e9s nerfs spinaux",
+            "E. Ils sont des nerfs mixtes"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 50,
+        "question": "Les fibres sensorielles du nerf vague re\u00e7oivent des sensations gustatives de:",
+        "options": [
+            "A. Le bout de la langue",
+            "B. Le tiers ant\u00e9rieur de la langue",
+            "C. Le tiers moyen de la langue",
+            "D. Les deux tiers ant\u00e9rieurs de la langue",
+            "E. La racine de la langue"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 51,
+        "question": "L'origine des nerfs hypoglosses:",
+        "options": [
+            "A. L'origine reelle r\u00e9side dans le noyau moteur du nerf situ\u00e9 dans le bulbe",
+            "B. L'origine reelle r\u00e9side dans le noyau moteur du nerf situ\u00e9 dans les pons",
+            "C. L'origine apparente r\u00e9side dans la face post\u00e9rieure du tronc c\u00e9r\u00e9bral",
+            "D. L'origine apparente r\u00e9side dans le sillon pr\u00e9olivaire",
+            "E. L'origine apparente r\u00e9side dans le sillon r\u00e9tro-olivaire"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 52,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs aux p\u00e9doncules c\u00e9r\u00e9belleux:",
+        "options": [
+            "A. Ils repr\u00e9sentent l'une des trois parties du tronc c\u00e9r\u00e9bral",
+            "B. Ils relient le bulbe, le pons et le mesencephalon au cervelet",
+            "C. Ils relient le bulbe, le pons et le diencephal au cervelet",
+            "D. Ils ne contiennent que des fibres aff\u00e9rentes",
+            "E. Ils contiennent des fibres aff\u00e9rentes et eff\u00e9rentes"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 53,
+        "question": "Le cortex c\u00e9r\u00e9belleux comprend:",
+        "options": [
+            "A. 3 couches de cellules",
+            "B. 6 couches de cellules",
+            "C. Une couche mol\u00e9culaire \u00e0 l'ext\u00e9rieur",
+            "D. Une couche granulaire \u00e0 l'ext\u00e9rieur",
+            "E. Une couche granulaire \u00e0 l'int\u00e9rieur"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 54,
+        "question": "Le diencephale est compos\u00e9 de:",
+        "options": [
+            "A. Le m\u00e9senc\u00e9phale",
+            "B. Le thalamus",
+            "C. L'hypothalamus",
+            "D. L'hypophyse",
+            "E. Le m\u00e9tathalamus"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 55,
+        "question": "L'hypothalamus est un centre sup\u00e9rieur d'int\u00e9gration, de r\u00e9gulation et de coordination des principales fonctions du corps, parmi lequel:",
+        "options": [
+            "A. L'amplification des vibrations sonores faibles",
+            "B. La diminution des vibrations sonores fortes",
+            "C. Le m\u00e9tabolisme interm\u00e9diaire",
+            "D. La thermor\u00e9gulation",
+            "E. Digestion par les centres de la faim, de la soif et de la sati\u00e9t\u00e9"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 56,
+        "question": "Les h\u00e9misph\u00e8res c\u00e9r\u00e9braux ont:",
+        "options": [
+            "A. 3 facettes: lat\u00e9rale, m\u00e9diale et inf\u00e9rieure",
+            "B. 3 facettes: lat\u00e9rale, m\u00e9diale et basale",
+            "C. 3 facettes: lat\u00e9rale, basale et inf\u00e9rieure",
+            "D. 3 facettes: lat\u00e9rale, m\u00e9diale et sup\u00e9rieure",
+            "E. 4 facettes: lat\u00e9rale, m\u00e9diale, sup\u00e9rieure et inf\u00e9rieure"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 57,
+        "question": "Le lobe pari\u00e9tal est situ\u00e9:",
+        "options": [
+            "A. Dans la partie inf\u00e9rieure des h\u00e9misph\u00e8res c\u00e9r\u00e9braux",
+            "B. Avant la fissure centrale",
+            "C. Avant la fissure rolandique",
+            "D. Au-dessus du sillon lat\u00e9ral",
+            "E. Au-dessous du sillon lat\u00e9ral"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 58,
+        "question": "Les affirmations suivantes sont vraies se r\u00e9f\u00e9rant aux h\u00e9misph\u00e8res c\u00e9r\u00e9braux:",
+        "options": [
+            "A. La mati\u00e8re grise se situe uniquement \u00e0 la surface",
+            "B. La mati\u00e8re grise se situe uniquement \u00e0 l'int\u00e9rieur",
+            "C. La mati\u00e8re grise se trouve \u00e0 la fois \u00e0 la surface et \u00e0 l'int\u00e9rieur",
+            "D. La substance blanche entoure les ventricules c\u00e9r\u00e9braux I et II",
+            "E. La substance blanche entoure les ventricules c\u00e9r\u00e9braux III et IV"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 59,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au pal\u00e9ocortex:",
+        "options": [
+            "A. Il est situ\u00e9 sur une petite surface de la face m\u00e9diale des h\u00e9misph\u00e8res c\u00e9r\u00e9braux.",
+            "B. Il est situ\u00e9 sur une large zone sur la face m\u00e9diale des h\u00e9misph\u00e8res c\u00e9r\u00e9braux",
+            "C. Il est situ\u00e9 sur une large zone sur la face lat\u00e9rale des h\u00e9misph\u00e8res c\u00e9r\u00e9braux",
+            "D. Il repr\u00e9sente le point d'origine des processus psychiques affectifs \u00e9motionnels",
+            "E. Il repr\u00e9sente le point d'origine du comportement instinctif"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 60,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au r\u00e9flexe inconditionn\u00e9:",
+        "options": [
+            "A. C'est inn\u00e9",
+            "B. Il est acquis",
+            "C. C'est une r\u00e9action apprise",
+            "D. C'est caract\u00e9ristique pour une esp\u00e8ce",
+            "E. Ce n'est pas caract\u00e9ristique pour une esp\u00e8ce"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 61,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au r\u00e9flexe d\u2019alimentation:",
+        "options": [
+            "A. C'est une r\u00e9ponse apprise",
+            "B. C'est un r\u00e9flexe conditionn\u00e9",
+            "C. C'est caract\u00e9ristique pour une esp\u00e8ce",
+            "D. C'est une r\u00e9ponse inn\u00e9e",
+            "E. C'est un r\u00e9flexe inconditionn\u00e9"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 62,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux r\u00e9flexes conditionn\u00e9s:",
+        "options": [
+            "A. Ils se ferment au niveau cortical",
+            "B. Ils se ferment au niveau sous-cortical",
+            "C. Ils s'\u00e9teignent si le stimulus initial n'est pas renforc\u00e9 par intervalles par le stimulus absolu",
+            "D. Ils s'\u00e9teignent si le stimulus secondaire n'est pas renforc\u00e9 par intervalles par le stimulus indiff\u00e9rent",
+            "E. Ils ne sont jamais \u00e9teints"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 63,
+        "question": "Le motoneurone est:",
+        "options": [
+            "A. Un neurone aff\u00e9rent",
+            "B. Un neurone eff\u00e9rent",
+            "C. Un neurone qui transmet les impulsions des r\u00e9cepteurs au syst\u00e8me nerveux p\u00e9riph\u00e9rique",
+            "D. Un neurone qui transmet les impulsions des r\u00e9cepteurs au syst\u00e8me nerveux central",
+            "E. Un neurone qui transmet les impulsions du syst\u00e8me nerveux central \u00e0 un organe effecteur"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 64,
+        "question": "Les affirmations suivantes sont vraies se r\u00e9f\u00e9rant au syst\u00e8me nerveux autonome:",
+        "options": [
+            "A. La plupart des organes re\u00e7oivent une innervation autonome simple",
+            "B. La plupart des organes re\u00e7oivent une innervation double et antagoniste",
+            "C. Dans certains organes, le sympathique et le parasympathique produisent le m\u00eame type d\u2019effets, mais ces effets ne diff\u00e8rent que quantitativement",
+            "D. Dans certains organes, le sympathique et le parasympathique produisent le m\u00eame type d\u2019effets, mais ces effets ne diff\u00e8rent que qualitativement.",
+            "E. Dans certains organes, le sympathique et le parasympathique produisent le m\u00eame type d'effets, mais ces effets diff\u00e8rent \u00e0 la fois quantitativement et qualitativement"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 65,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au trajet eff\u00e9rent du r\u00e9flexe autonome:",
+        "options": [
+            "A. C'est semblable \u00e0 celui du r\u00e9flexe somatique",
+            "B. Il est fondamentalement diff\u00e9rent de celui du r\u00e9flexe somatique",
+            "C. Dans le syst\u00e8me sympathique, il a des ganglions autonomes vert\u00e9braux lat\u00e9raux",
+            "D. Dans le syst\u00e8me parasympathique, il a des ganglions autonomes vert\u00e9braux lat\u00e9raux",
+            "E. Dans le syst\u00e8me parasympathique, il a des ganglions autonomes juxtavisc\u00e9raux et intramuraux"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 66,
+        "question": "Les centres du syst\u00e8me parasympathique sont situ\u00e9s dans:",
+        "options": [
+            "A. Les cornes ant\u00e9rieures de la moelle \u00e9pini\u00e8re thoracique et lombaire sup\u00e9rieure",
+            "B. Les cornes post\u00e9rieures de la moelle \u00e9pini\u00e8re thoracique et lombaire sup\u00e9rieure",
+            "C. Les cornes lat\u00e9rales de la moelle \u00e9pini\u00e8re thoracique et lombaire sup\u00e9rieure",
+            "D. Les noyaux parasympathiques du tronc c\u00e9r\u00e9bral et dans la moelle \u00e9pini\u00e8re lombaire L2-L4",
+            "E. Les noyaux parasympathiques du tronc c\u00e9r\u00e9bral et dans la moelle \u00e9pini\u00e8re sacrale S2-S4"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 67,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au syst\u00e8me nerveux sympathique:",
+        "options": [
+            "A. Il a ses propres voies repr\u00e9sent\u00e9es par des cha\u00eenes sympathiques paravert\u00e9brales",
+            "B. Il a ses propres voies repr\u00e9sent\u00e9es par des cha\u00eenes sympathiques lat\u00e9ro- vert\u00e9brales",
+            "C. Il utilise des voies emprunt\u00e9es",
+            "D. Il utilise les voies des nerfs cr\u00e2niens III, VI, IX, X",
+            "E. Il utilise les voies des nerfs cr\u00e2niens III, VII, IX, X"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 68,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au syst\u00e8me parasympathique cr\u00e2nien:",
+        "options": [
+            "A. Il a ses propres voies repr\u00e9sent\u00e9es par des cha\u00eenes sympathiques paravert\u00e9brales",
+            "B. Il a ses propres voies repr\u00e9sent\u00e9es par des cha\u00eenes sympathiques lat\u00e9ro- vert\u00e9brales",
+            "C. Il utilise les voies des nerfs cr\u00e2niens III, VI, IX, X",
+            "D. Il utilise les voies des nerfs cr\u00e2niens III, VII, IX, X",
+            "E. Il utilise la voie des nerfs pelviens"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 69,
+        "question": "Laquelle des substances suivantes est lib\u00e9r\u00e9e \u00e0 l\u2019extr\u00e9mit\u00e9 p\u00e9riph\u00e9rique de la fibre postganglionnaire:",
+        "options": [
+            "A. Noradr\u00e9naline dans le cas du syst\u00e8me sympathique",
+            "B. Noradr\u00e9naline dans le cas du syst\u00e8me parasympathique",
+            "C. Ac\u00e9tylcholine dans le cas du syst\u00e8me sympathique",
+            "D. Ac\u00e9tylcholine dans le cas du syst\u00e8me parasympathique",
+            "E. Nor\u00e9pin\u00e9phrine dans le cas du syst\u00e8me parasympathique"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 70,
+        "question": "Le composant sympathique active le corps pour l'offensive et la d\u00e9fense principalement en lib\u00e9rant:",
+        "options": [
+            "A. Adr\u00e9naline de la glande corticosuprar\u00e9nale",
+            "B. Noradr\u00e9naline des fibres postganglionnaires",
+            "C. Ac\u00e9tylcholine \u00e0 partir des fibres postganglionnaires",
+            "D. Adr\u00e9naline de la m\u00e9dullosurr\u00e9nale",
+            "E. Ac\u00e9tylcholine de la m\u00e9dullosurr\u00e9nale"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 71,
+        "question": "Les synapses cholinergiques utilisent:",
+        "options": [
+            "A. Adr\u00e9naline",
+            "B. Noradr\u00e9naline",
+            "C. Nor\u00e9pin\u00e9phrine",
+            "D. \u00c9pin\u00e9phrine",
+            "E. Ac\u00e9tylcholine"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 72,
+        "question": "Lequel des organes suivants ne poss\u00e8de pas d'innervation parasympathique?",
+        "options": [
+            "A. La m\u00e9dullosurr\u00e9nale (medulla glandulae suprarenalis)",
+            "B. Les glandes sudoripares",
+            "C. Les muscles \u00e9recteurs des cheveux",
+            "D. La majorit\u00e9 des vaisseaux sanguins",
+            "E. Tous les vaisseaux sanguins"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 73,
+        "question": "La stimulation sympathique a les effets suivants sur le muscle ciliaire:",
+        "options": [
+            "A. Mydriase",
+            "B. Myose",
+            "C. Relaxation (pour vision de pr\u00e8s)",
+            "D. Relaxation (vision \u00e0 distance)",
+            "E. Aucun effet"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 74,
+        "question": "La stimulation sympathique a les effets suivants sur le c\u0153ur:",
+        "options": [
+            "A. Fr\u00e9quence accrue",
+            "B. Fr\u00e9quence diminu\u00e9e",
+            "C. Contractilit\u00e9 accrue",
+            "D. Contractilit\u00e9 diminu\u00e9e",
+            "E. Aucun effet"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 75,
+        "question": "La stimulation parasympathique a les effets suivants sur le foie:",
+        "options": [
+            "A. Contraction du foie",
+            "B. Relaxation du foie",
+            "C. Stimule la glycog\u00e9nolyse",
+            "D. Stimule la glycog\u00e9n\u00e8se",
+            "E. Aucun effet"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 76,
+        "question": "La stimulation sympathique a les effets suivants sur l'iris (muscle constricteur de la pupille):",
+        "options": [
+            "A. Mydriase",
+            "B. Myose",
+            "C. Constriction des pupilles",
+            "D. Relaxation (vision de distance)",
+            "E. Aucun effet"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 77,
+        "question": "La stimulation parasympathique a les effets suivants sur le c\u0153ur:",
+        "options": [
+            "A. Fr\u00e9quence accrue",
+            "B. Fr\u00e9quence diminu\u00e9e",
+            "C. Contractilit\u00e9 accrue",
+            "D. Contractilit\u00e9 diminu\u00e9e",
+            "E. Aucun effet"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 78,
+        "question": "La stimulation parasympathique a les effets suivants sur les vaisseaux sanguins:",
+        "options": [
+            "A. Principalement la vasoconstriction",
+            "B. Dilatation dans toutes les r\u00e9gions vasculaires",
+            "C. Dilatation dans certaines r\u00e9gions vasculaires",
+            "D. Vasoconstriction dans toutes les r\u00e9gions vasculaires",
+            "E. Aucun effet"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 79,
+        "question": "La stimulation du syst\u00e8me parasympathique induit:",
+        "options": [
+            "A. Dilatation dans certaines r\u00e9gions vasculaires",
+            "B. Dilatation dans l\u2019arbre bronchique",
+            "C. Constriction dans l'arbre bronchique",
+            "D. Mydriase",
+            "E. Relaxation des muscles ciliaires pour la vision de pr\u00e8s"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 2,
+        "id": 80,
+        "question": "L'enc\u00e9phalite est:",
+        "options": [
+            "A. Une maladie inflammatoire aigu\u00eb des m\u00e9ninges",
+            "B. Une maladie inflammatoire aigu\u00eb du cerveau",
+            "C. Une maladie inflammatoire chronique des m\u00e9ninges",
+            "D. Une maladie chronique caract\u00e9ris\u00e9e par des \u00e9pisodes avec apparition brusque",
+            "E. Une maladie chronique r\u00e9sultant d'un traumatisme cr\u00e2nien"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    }
+]

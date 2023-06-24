@@ -1,0 +1,91 @@
+Chapitre I  LE CORPS HUMAIN
+1.B; 2.B,D; 3.B,C,D; 4.D; 5.C; 6.B,C,E; 7.B; 8.B,E; 9.A,B; 10.C,D;
+11.C,D,E; 12.C,E; 13.A,B,D; 14.A,C; 15.B,D,E; 16.C,D,E; 17.A,C,E;
+18.A,C,E; 19.A,C,D; 20.A,B,D,E; 21.A,C,E; 22.A,C; 23.B,C,E; 24.B,C,D;
+25.A,B,C; 26.A,C,E; 27.A,B; 28.A,C,E; 29.C; 30.B,C,D; 31.B,D; 32.A,B,D;
+33.C; 34.C; 35.A,B,D; 36.A,D,E; 37.A,B,D; 38.A,C,D; 39.B; 40.B,D; 41.B,D;
+42.A,C,D; 43.A,B,D,E; 44.B,C,E; 45.A,B,D; 46.B,C,D,E; 47.A,B; 48.A,D,E;
+49.B,E; 50.C,E
+
+Chapitre II       LE SYSTÈME NERVEUX
+1.B,E; 2.C; 3.C,D,E; 4.A; 5.B,E; 6.A,B,C,D; 7.A,B,D; 8.A,B,D; 9.D,E;
+10.A,D,E; 11.C,E; 12.A,C; 13.A,E; 14.A,D,E; 15.B,C; 16.A,C,D; 17.B;
+18.C,E; 19.C; 20.B,D,E; 21.C,D; 22.A,B; 23.A,E; 24.B,E; 25.A,D,E; 26.B;
+27.A,B,E; 28.B,E; 29.C,D; 30.A,C,D; 31.B,D; 32.B,C,D,E; 33.B,D,E;
+34.A,C,D; 35.E; 36.D; 37.D; 38.D; 39.A,C,D,E; 40.B,D; 41.A; 42.C,E;
+43.B,D; 44.B,E; 45.B,E; 46.B,D; 47.A,B; 48.D; 49.B,C,E; 50.E; 51.A,D;
+52.B,E; 53.A,C,E; 54.B,C,E 55.C,D,E; 56.A,B; 57.D; 58.C,D; 59.A,D,E;
+60.A,D; 61.C,D,E; 62.A,C; 63.B,E; 64.B,E; 65.B,C,E; 66.E; 67.A,B; 68.D;
+69.A,D; 70.B,D; 71.E; 72.A,B,C,D; 73.D; 74.A,C; 75.E; 76.B,C; 77.B; 78.C;
+79.A,C; 80.B.
+
+Chapitre III       ANALISATEURS
+1.A,B,C,D; 2.C,D; 3.A,B,C,D; 4.C,D; 5.B; 6.A,B,D; 7.B,C,D,E; 8.A,C; 9.C;
+10.B,C; 11.A,E; 12.C; 13.D; 14.A,E; 15.A,B; 16.B,C,D; 17.C,E; 18.D,E;
+19.B,D; 20.A,B,E; 21.A,D; 22.B; 23.B,C,E; 24.A,C,E; 25.B,C,D; 26.E;
+27.B,E; 28.B,E; 29.B,D; 30.B; 31.D,E; 32.B,E; 33.B,C; 34.A; 35.D; 36.D,E;
+37.B,C; 38.B,D; 39.B,D; 40.C; 41.A,B,C; 42.C,D; 43.A; 44.B; 45.B,C; 46.D;
+47.E; 48.A,D; 49.A,E; 50.B,D.
+
+Chapitre IV         LES GLANDES ENDOCRINES
+1.D,E; 2.A,C; 3.B,C; 4.A,B,E; 5.A,B,D; 6.B; 7. C,D,E; 8.A,C,D,E; 9.B,C,D,E;
+10.A,B,C,D; 11.E; 12.A,B,C; 13.B,C; 14.A,E; 15.A,C,E; 16.A,B,D;
+17.A,B,C,D; 18.B,C,D; 19.B,C,E; 20.B,C,D,E; 21.B,C,D,E; 22.A,B,D,E;
+23.B,D,E; 24.A,C; 25.A,B,E; 26.B; 27.A,B,C,E; 28.A,B,C,E; 29.A,B,C;
+30.A,B,C,D; 31.D,E; 32.C,D,E; 33.B,C,E; 34.A,B,C; 35.E; 36.A,B,C,D;
+37.C,E; 38.A,B,D,E; 39.A,B,C,E; 40.A; 41.A,C; 42.A,E; 43.C,D; 44.A,B,C,E;
+45.A,B,C,E.
+
+ChapitreV  MOUVEMENT
+1.A,C; 2.C,D,E; 3.B,C,D; 4.D,E; 5.A,B,C,D; 6.A,C,E; 7.C,D; 8.A,D,E; 9.D;
+10.C,D; 11.A,D,E; 12.A,C,D,E; 13.B,C; 14.A,C; 15.D; 16.D,E; 17.A;
+18.B,D,E; 19.A,D; 20.A,D; 21.B; 22.B; 23.B,D,E; 24.A,D; 25.B,D,E; 26.A,B;
+27.B,C,D; 28.A,C,D; 29.B,C; 30.E; 31.A,B,C; 32.A,B; 33.A,B,C,D; 34.A,B,D;
+35.A,D,E; 36.A,C,E; 37.A,C,E; 38.A,D; 39.A,C; 40.A,B,C,D; 41.B,C;
+42.A,B,C,D; 43.B,C,E; 44.A,C,E; 45.A,C,D,E; 46.A,B,D; 47.A,C,D,E;
+48.A,C; 49.A,B,D,E; 50.A,C,D,E.
+
+Chapitre VI         DIGESTION ET ABSORPTION
+1.B,C,D; 2.A,C,D; 3.A,C,D; 4.A,D,E; 5.B,C,E; 6.A,D,E; 7.B,C,D; 8.A,C,E;
+9.B,C,D; 10.A,B,E; 11.A,B,D,E; 12.B,C; 13.D,E; 14.B; 15.B,E; 16.B,D;
+17.D,E; 18.A,B,C,E; 19.A,C,D; 20.A,C; 21.C,E; 22.C; 23.A,C,D; 24.A,C,D;
+25.A,B,C,D; 26.A,C,D; 27.B,C,E; 28.A,B,C; 29.B; 30.D,E; 31.A,B,C,D;
+32.A,C,D; 33.B,C,E; 34.A,B,C; 35.B,C,D,E; 36.C,D; 37.A; 38.A,C,E;
+39.A,D,E; 40.B,D,E.
+
+Chapitre VII       CIRCULATION
+1.B,C,E; 2.A,C,D,E; 3.C,E; 4.A,B,C,D; 5.B,D,E; 6.A,B,C,E; 7.A,D,E;
+8.C,D,E; 9.A,C,D; 10.A,C,E; 11.A; 12.A,B,C; 13.B,C,D,E; 14.B,D,E; 15.B,C;
+16.A,B,C; 17.A,B,C,E; 18.A,C,E; 19.A,B,C,E; 20.A,B,C,E; 21.D; 22.A;
+23.B,D,E; 24.A,B; 25.B,E; 26.B; 27.A,E; 28.B,C,D; 29.A,D; 30.B,C,D;
+31.B,C,D; 32.B,C,D; 33.B,E; 34.A,B,C,E; 35.B,C,E; 36.A,B,D; 37.A,C;
+38.A,B,D,E; 39.B,C,E; 40.B,C,D; 41.A,B,E; 42.B,C; 43.C,D,E; 44.A,B,C,D;
+45.A,B,C; 46.A,D; 47.B,D,E; 48.A,B,C,D; 49.B,C,D; 50.A,B,E; 51.C,D;
+52.A,D,E; 53.A,B; 54.C,D; 55.A,C,D; 56.B,C,D; 57.A,B,C,D; 58.C,D,E;
+59.B,C,D,E; 60.A,B,C,D.
+
+Chapitre VIII     RESPIRATION
+1.A,C,E; 2.B,C; 3.A,B; 4.B,D,E; 5.A,C,D; 6.B,D,E; 7.B,D,E; 8.A,B,E;
+9.A,B,D,E; 10.B,C; 11.B,C,D; 12.A,C,D; 13.B,C; 14.B,C; 15.A,B,D; 16.C,D,E;
+17.A,B,D; 18.C,D,E; 19.A,B,D; 20.B,D,E; 21.A,B,C; 22.A,C; 23.B,D;
+24.B,C,D; 25.A,B; 26.C,D,E; 27.A,D,E; 28.C,D,E; 29.D; 30.A,C,D,E.
+
+Chapitre IX        EXCRÉTION
+1.A,B,C; 2.A,C,D; 3.C,D,E; 4.B; 5.A,C,D; 6.A,B,C; 7.D,E; 8.E; 9.A;
+10.A,D,E; 11.D,E; 12.A,B; 13.D,E; 14.A,B,E; 15.B,C; 16.C,D; 17.C,D,E;
+18.C,D; 19.A,C,E; 20.A,E; 21.A,D; 22.C,D,E; 23.B,D,E; 24.D; 25.A,C,E;
+26.C,E; 27.C,D,E; 28.B,D; 29.A,B,D,E; 30.B.
+                                   
+Chapitre X         MÉTABOLISME
+1.A,B,C,E; 2.A,C; 3.A,B,C; 4.A,B; 5.A,E; 6.B,C; 7.B,D,E; 8.A,B,E; 9.C,D;
+10.A,B,E; 11.A,B,C; 12.B,C,D; 13.B,D,E; 14.A,E; 15.B,C,E; 16.A,C;
+17.A,B,D; 18.A,B,D; 19.B,D,E; 20.B,E; 21.B,C,D,E; 22.B,C; 23.A,D,E;
+24.B,D,E; 25.A,C,D,E; 26.D,E; 27.A,C,D; 28.A,C,D; 29.A,B,E; 30.A,B,D;
+31.A,D,E; 32.A,D,E; 33.A,D,E; 34.A,B,E; 35.A,D.
+
+Chapitre XI       LA REPRODUCTION
+1.B,C,D; 2.B,C,D,E; 3.B,D; 4.B,C,D,E; 5.B,D,E; 6.B,C,E; 7.A,B,D; 8.A,B,C;
+9.D; 10.A,B,D; 11.B,C,D; 12.B; 13.A,B,C,D; 14.B,D,E; 15.B,E; 16.A,B,C,D;
+17.B; 18.C,D,E; 19.A,C,D; 20.A,B,D; 21.A,B,C,D; 22.D; 23.B,C,D,E;
+24.A,B,C,D; 25.B,C,E; 26.B; 27.A,B,C,D; 28.A,D,E; 29.A,B,D,E;
+30.A,B,D,E.

@@ -1,0 +1,670 @@
+[
+    {
+        "chapitre": 6,
+        "id": 1,
+        "question": "Les glandes accessoires du tube digestif sont repr\u00e9sent\u00e9es par:",
+        "options": [
+            "A. Les glandes salivaires parathyro\u00efdes",
+            "B. Les glandes salivaires sublinguales",
+            "C. Les glandes salivaires sous-mandibulaires",
+            "D. Le foie",
+            "E. Le pancr\u00e9as endocrine"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 2,
+        "question": "Le tube digestif comprend les segments suivants:",
+        "options": [
+            "A. La cavit\u00e9 buccale",
+            "B. La cavit\u00e9 nasale",
+            "C. Le pharynx",
+            "D. L'oesophage",
+            "E. Les poumons"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 3,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux dents:",
+        "options": [
+            "A. Ce sont des structures dures qui jouent un r\u00f4le dans la mastication",
+            "B. Il y a 24 dents chez les enfants",
+            "C. Il y a 32 dents chez les adultes",
+            "D. Ils se composent de la couronne, du col et de la racine",
+            "E. Ils jouent un r\u00f4le dans la d\u00e9glutition"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 4,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 l'estomac:",
+        "options": [
+            "A. C'est un organe creux",
+            "B. Il a une capacit\u00e9 d'environ 5 litres",
+            "C. Il est situ\u00e9 sur le c\u00f4t\u00e9 droit de l'abdomen, juste au-dessus du diaphragme",
+            "D. Il communique avec l'\u0153sophage par le cardia",
+            "E. Il communique avec l'intestin gr\u00eale par l\u2019orifice pylorique"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 5,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au c\u00f4lon:",
+        "options": [
+            "A. Continue le duod\u00e9num",
+            "B. Il se continue avec le rectum",
+            "C. Il comporte quatre parties: ascendante, transversale, descendante et sigmo\u00efde",
+            "D. C'est un segment de l'intestin gr\u00eale",
+            "E. Sa muqueuse est d\u00e9pourvue de villosit\u00e9s"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 6,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux glandes salivaires parotides:",
+        "options": [
+            "A. Ce sont des glandes paires",
+            "B. Ils sont innerv\u00e9s par le nerf facial (IX)",
+            "C. Ils sont principalement constitu\u00e9s de cellules muqueuses",
+            "D. Ils sont innerv\u00e9s par le nerf glossopharyng\u00e9 (IX)",
+            "E. Ils sont les plus grandes glandes salivaires"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 7,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux villosit\u00e9s intestinales:",
+        "options": [
+            "A. Ils peuvent \u00eatre trouv\u00e9s dans la muqueuse rectale",
+            "B. Ils peuvent \u00eatre trouv\u00e9s dans la muqueuse de l'intestin gr\u00eale",
+            "C. Ils sont adapt\u00e9s en fonction de l'absorption",
+            "D. Au centre, ils ont un vaisseau chylif\u00e8re, des vaisseaux sanguins et des nerfs",
+            "E. En surface, ils ont un \u00e9pith\u00e9lium pluristratifi\u00e9"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 8,
+        "question": "Par l'hile h\u00e9patique entre dans le foie:",
+        "options": [
+            "A. L'art\u00e8re h\u00e9patique",
+            "B. Les deux canaux h\u00e9patiques",
+            "C. La veine porte",
+            "D. Les veines h\u00e9patiques",
+            "E. Les nerfs du foie"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 9,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la veine porte:",
+        "options": [
+            "A. Assure la vascularisation nutritive du foie",
+            "B. Assure la vascularisation fonctionnelle du foie",
+            "C. Fournit au foie du sang qui contient les nutriments absorb\u00e9s du tube digestif",
+            "D. Il recueille le sang de l'estomac, du pancr\u00e9as, de l'intestin et de la rate",
+            "E. Par l\u2019art\u00e8re h\u00e9patique, il fournit au foie des nutriments et de l\u2019oxyg\u00e8ne"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 10,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la mastication:",
+        "options": [
+            "A. Assure la formation du bol alimentaire",
+            "B. D\u00e9clenche la s\u00e9cr\u00e9tion salivaire",
+            "C. Inhibe les r\u00e9cepteurs olfactifs et gustatifs",
+            "D. C\u2019est un r\u00e9flexe involontaire (chez l\u2019adulte) qui devient automatiquement graduellement",
+            "E. Il est r\u00e9gul\u00e9 par les centres bulbopontine et corticaux"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 11,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la d\u00e9glutition:",
+        "options": [
+            "A. La d\u00e9glutition est un acte volontaire seulement jusqu'aux arcs palatins, o\u00f9 elle se transforme en acte involontaire",
+            "B. Le temps de transit pharyng\u00e9 accomplit involontairement le transit d'un bolus du pharynx \u00e0 l'\u0153sophage",
+            "C. Il inclut toutes les activit\u00e9s motrices assurant le transport du bol alimentaire de la cavit\u00e9 buccale \u00e0 l'intestin.",
+            "D. Il se d\u00e9roule en trois phases",
+            "E. Il a une phase orale, pharyng\u00e9e et une phase \u0153sophagienne"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 12,
+        "question": "Les affirmations suivantes sont vraies concernant les vitamines contenues dans les aliments:",
+        "options": [
+            "A. Ils jouent un r\u00f4le nutritif et \u00e9nerg\u00e9tique",
+            "B. Ils agissent comme des biocatalyseurs",
+            "C. Ils sont importants dans le processus de croissance du corps",
+            "D. Ils sont liposolubles (vitamines appartenant au complexe B, vitamine C)",
+            "E. Ils sont hydrosolubles (vitamines A, D, E et K)"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 13,
+        "question": "S\u00e9lectionnez les d\u00e9clarations correctes pour les sucs digestifs:",
+        "options": [
+            "A. Ils sont s\u00e9cr\u00e9t\u00e9s par les glandes endocrines de la muqueuse du tube digestif.",
+            "B. Ils sont s\u00e9cr\u00e9t\u00e9s exclusivement par les glandes accessoires du tube digestif",
+            "C. Ils contiennent des enzymes digestives ayant une action non sp\u00e9cifique sur les substances contenues dans les aliments.",
+            "D. Ils contribuent \u00e0 la transformation chimique des aliments en nutriments",
+            "E. Ils agissent sur les aliments \u00e0 travers de l'eau et des enzymes digestives"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 14,
+        "question": "Reconnaissez les types d\u2019enzymes digestives:",
+        "options": [
+            "A. Amylolytique, qui agissent sur les monosaccharides alimentaires",
+            "B. Glycolytique, qui agit sur les glucides alimentaires complexes",
+            "C. Lipolytique, qui d\u00e9compose les glucides alimentaires en glyc\u00e9rol et en acides amin\u00e9s",
+            "D. Prot\u00e9olytique, qui transforment les prot\u00e9ines alimentaires en acides gras",
+            "E. Lipolytique, qui transforme le cholest\u00e9rol alimentaire en acides gras"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 15,
+        "question": "La salive contient:",
+        "options": [
+            "A. Electrolytes, \u00e0 une concentration inf\u00e9rieure \u00e0 celle du plasma, sans exception",
+            "B. Amylase salivaire, inactiv\u00e9e par le faible pH intragastrique",
+            "C. Substances endog\u00e8nes (m\u00e9taux lourds ou substances pathog\u00e8nes)",
+            "D. Substances exog\u00e8nes (ur\u00e9e, cr\u00e9atinine, acide urique)",
+            "E. Eau, substances organiques et inorganiques"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 16,
+        "question": "S\u00e9lectionnez les r\u00f4les digestifs de la salive:",
+        "options": [
+            "A. Neutralisation de l'acidit\u00e9 alimentaire",
+            "B. Hydrolyse sous l'action de l'amylase salivaire de l'amidon en dextrine et maltose",
+            "C. Maintenir l'humidit\u00e9 de la cavit\u00e9 buccale",
+            "D. Former le bol alimentaire \u00e0 l'aide de mucus salivaire",
+            "E. Maintenir la propret\u00e9 dentaire"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 17,
+        "question": "Choisissez des \u00e9nonc\u00e9s incorrects concernant le contr\u00f4le des phases de d\u00e9glutition:",
+        "options": [
+            "A. La phase orale est volontaire",
+            "B. La phase pharyng\u00e9e est automatique",
+            "C. La phase \u0153sophagienne est involontaire",
+            "D. Toutes les phases de la d\u00e9glutition sont automatiques",
+            "E. Toutes les phases de la d\u00e9glutition peuvent \u00eatre contr\u00f4l\u00e9es volontairement"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 18,
+        "question": "S\u00e9lectionnez le r\u00f4le de l'acide chlorhydrique dans la composition du suc gastrique:",
+        "options": [
+            "A. Il active les enzymes prot\u00e9olytiques",
+            "B. Il cr\u00e9e un environnement d'action optimal pour les enzymes prot\u00e9olytiques",
+            "C. Il a un effet bact\u00e9ricide",
+            "D. Il inhibe l'\u00e9vacuation gastrique",
+            "E. Il stimule l'\u00e9vacuation gastrique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 19,
+        "question": "Les enzymes prot\u00e9olytiques du suc gastrique sont repr\u00e9sent\u00e9es par:",
+        "options": [
+            "A. Pepsine",
+            "B. Trypsine",
+            "C. Labferment",
+            "D. G\u00e9latinase",
+            "E. \u00c9lastase"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 20,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la phase c\u00e9phalique de la r\u00e9gulation de la s\u00e9cr\u00e9tion gastrique:",
+        "options": [
+            "A. Cela implique exclusivement des m\u00e9canismes nerveux",
+            "B. Cela implique des m\u00e9canismes nerveux et humoraux",
+            "C. Elle est stimul\u00e9e par la vue ou l\u2019odeur de nourriture",
+            "D. Elle est d\u00e9clench\u00e9e par la distension des parois gastriques, cons\u00e9quence du passage des bolus alimentaires",
+            "E. Elle est bas\u00e9e sur les r\u00e9flexes vagovagaux"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 21,
+        "question": "La motilit\u00e9 gastrique est:",
+        "options": [
+            "A. Contr\u00f4l\u00e9e uniquement par un m\u00e9canisme nerveux",
+            "B. Contr\u00f4l\u00e9e uniquement par un m\u00e9canisme humoral",
+            "C. Contr\u00f4l\u00e9e par les plexus autonomes et les ent\u00e9rohormones",
+            "D. Inhib\u00e9e par la gastrine",
+            "E. Inhib\u00e9e par la s\u00e9cr\u00e9tine"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 22,
+        "question": "S\u00e9lectionnez l'\u00e9nonc\u00e9 correct relatif \u00e0 la s\u00e9cr\u00e9tion pancr\u00e9atique:",
+        "options": [
+            "A. C'est le produit de s\u00e9cr\u00e9tion du pancr\u00e9as endocrinien",
+            "B. Elle entre dans le duod\u00e9num par le canal principal (Santorin) et le canal accessoire (Wirsung).",
+            "C. Elle a un pH alcalin",
+            "D. Elle contient des enzymes s\u00e9cr\u00e9t\u00e9es par les cellules \u00e9pith\u00e9liales des canaux excr\u00e9toires",
+            "E. Elle contient le bicarbonate produit par les cellules des acini du pancr\u00e9as"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 23,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux enzymes prot\u00e9olytiques pancr\u00e9atiques:",
+        "options": [
+            "A. Ce sont des enzymes tr\u00e8s fortes",
+            "B. Ils attaquent toutes les cat\u00e9gories de substances organiques dans les aliments",
+            "C. Ils sont lib\u00e9r\u00e9s sous forme de proenzymes",
+            "D. Ils sont repr\u00e9sent\u00e9s par la trypsine, la chymotrypsine, la carboxypeptidase et l\u2019\u00e9lastase",
+            "E. Ils d\u00e9composent les prot\u00e9ines en acides gras et en glyc\u00e9rol"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 24,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la bile:",
+        "options": [
+            "A. C'est le produit de l'activit\u00e9 exocrine des h\u00e9patocytes",
+            "B. Elle est produit par intermittence par les h\u00e9patocytes et d\u00e9pos\u00e9 dans la v\u00e9sicule biliaire",
+            "C. Elle contient des pigments biliaires, du cholest\u00e9rol et de la l\u00e9cithine",
+            "D. Elle contient des sels biliaires, qui \u00e9mulsifient les graisses et augmentent l'activit\u00e9 de la lipase.",
+            "E. Elle est n\u00e9cessaire pour la digestion et l'absorption des prot\u00e9ines"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 25,
+        "question": "Les r\u00f4les de la bile consistent en:",
+        "options": [
+            "A. Digestion et absorption des lipides",
+            "B. Absorption de vitamines liposolubles",
+            "C. Laxatif, en stimulant le transit intestinal",
+            "D. Neutraliser l'activit\u00e9 du chyme gastrique",
+            "E. Digestion chimique de l'amidon transform\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 26,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 l'action                    des disaccharides intestinaux:",
+        "options": [
+            "A. La saccharase d\u00e9compose le saccharose en glucose et en fructose",
+            "B. La saccharase d\u00e9compose le saccharose en glucose et en galactose",
+            "C. La maltase d\u00e9compose le maltose en deux mol\u00e9cules de glucose",
+            "D. La lactase d\u00e9compose le lactose en glucose et en galactose",
+            "E. La lactase d\u00e9compose le lactose en glucose et fructose"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 27,
+        "question": "Relatif aux mouvements p\u00e9ristaltiques de l'intestin gr\u00eale, il est vrai que:",
+        "options": [
+            "A. Ce sont des mouvements mixtes",
+            "B. Ils se produisent dans n'importe quelle partie de l'intestin",
+            "C. Ils se d\u00e9placent dans une direction anale",
+            "D. Ils se d\u00e9placent plus lentement dans l'intestin proximal et plus rapidement dans l'intestin terminal",
+            "E. Ils d\u00e9placent le contenu intestinal du pylore vers la valvule il\u00e9o-colique en 3 \u00e0 5 heures"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 28,
+        "question": "La vascularisation de la villosit\u00e9 intestinale est repr\u00e9sent\u00e9e par:",
+        "options": [
+            "A. Une art\u00e9riole",
+            "B. Une v\u00e9nule",
+            "C. Un r\u00e9seau de capillaires sanguins",
+            "D. Un r\u00e9seau de capillaires lymphatiques",
+            "E. Un vaisseau lymphatique p\u00e9riph\u00e9rique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 29,
+        "question": "S\u00e9lectionnez l'\u00e9nonc\u00e9 incorrect faisant r\u00e9f\u00e9rence aux m\u00e9canismes actifs de l'absorption intestinale:",
+        "options": [
+            "A. Ils utilisent l'\u00e9nergie fournie par l'ATP",
+            "B. Ils ont lieu dans le sens du gradient de concentration",
+            "C. Ils assurent l'absorption d'hexose",
+            "D. Ils assurent l\u2019absorption des acides amin\u00e9s",
+            "E. Ils assurent l\u2019absorption des vitamines hydrosolubles (B1, B2, B6)"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 30,
+        "question": "Les m\u00e9canismes de transport ent\u00e9rocytaire des produits de digestion des glucides sont:",
+        "options": [
+            "A. Au p\u00f4le apical - transport actif de Na+ - d\u00e9pend pour fructose",
+            "B. Au p\u00f4le apical - diffusion facilit\u00e9e pour le glucose et le galactose",
+            "C. Dans la membranes basolat\u00e9rale - transport actif de Na+ - d\u00e9pend pour glucose et du galactose",
+            "D. Dans la membrane basolat\u00e9rale - diffusion facilit\u00e9e pour le fructose",
+            "E. Dans la membrane basolat\u00e9rale - diffusion facilit\u00e9e pour tous les monosaccharides"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 31,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects concernant l'absorption intestinale des lipides:",
+        "options": [
+            "A. Le glyc\u00e9rol et les acides gras sont des formes r\u00e9sorbables de la digestion des lipides",
+            "B. Les produits de digestion des lipides dans les structures micellaires sont absorb\u00e9s passivement au p\u00f4le apical des ent\u00e9rocytes.",
+            "C. Les acides gras \u00e0 cha\u00eene courte passent passivement des ent\u00e9rocytes dans le sang",
+            "D. Dans les ent\u00e9rocytes, les fluides absorb\u00e9s sont incorpor\u00e9s dans les chylomicrons qui passent ensuite dans la lymphe",
+            "E. Le glyc\u00e9rol et les acides gras sont activement absorb\u00e9s au p\u00f4le apical des ent\u00e9rocytes"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 32,
+        "question": "Lequel des compos\u00e9s suivants parvient au foie par la veine porte?",
+        "options": [
+            "A. Monosaccharides",
+            "B. Tri et dipeptides",
+            "C. Acides amin\u00e9s",
+            "D. Sels biliaires",
+            "E. Chylomicrons"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 33,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs aux vitamines hydrosolubles:",
+        "options": [
+            "A. Elles sont un composantes de la micelle et sont absorb\u00e9es avec les liquides dans l'intestin proximal",
+            "B. Elles sont compl\u00e9t\u00e9es \u00e0 travers d\u2019un transport facilit\u00e9",
+            "C. Elles sont compl\u00e9t\u00e9es \u00e0 travers du syst\u00e8me de transport actif d\u00e9pendant de Na +",
+            "D. Elles a lieu dans l'estomac, dans le cas de la vitamine B12",
+            "E. Elles a lieu dans la partie proximale, dans l'intestin gr\u00eale"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 34,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs \u00e0 l'absorption d'\u00e9lectrolytes intestinaux:",
+        "options": [
+            "A. Na+ est activement absorb\u00e9",
+            "B. Cl- est absorb\u00e9 passivement",
+            "C. Le Ca2 + est activement absorb\u00e9 dans le duod\u00e9num, stimul\u00e9 par la vitamine D",
+            "D. Fe3 + est plus facilement absorb\u00e9 que Fe2 +",
+            "E. L'absorption de Fe3 + est stimul\u00e9e par la vitamine C."
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 35,
+        "question": "Dans l'intestin gr\u00eale, l'eau est absorb\u00e9e:",
+        "options": [
+            "A. Activement",
+            "B. Par osmose iso",
+            "C. Bas\u00e9 sur un gradient osmotique r\u00e9sultant de l'absorption d'\u00e9lectrolytes",
+            "D. Bas\u00e9 sur un gradient osmotique r\u00e9sultant de l'absorption d'\u00e9l\u00e9ments nutritifs",
+            "E. Passivement"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 36,
+        "question": "La flore bact\u00e9rienne du gros intestin est responsable des processus suivants:",
+        "options": [
+            "A. Fermentation de prot\u00e9ines non dig\u00e9r\u00e9es",
+            "B. Putr\u00e9faction des glucides non dig\u00e9r\u00e9s",
+            "C. Synth\u00e8se des vitamines du complexe B et de la vitamine K",
+            "D. D\u00e9gradation des glucides non dig\u00e9r\u00e9s en acides irritants (lactique, ac\u00e9tique, butyrique) et en gaz (H2, N2, CO2)",
+            "E. D\u00e9gradation de la prot\u00e9ine non dig\u00e9r\u00e9e en acides amin\u00e9s qui sont absorb\u00e9s plus tard"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 37,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s incorrects se r\u00e9f\u00e9rant \u00e0 la fonction d'absorption du gros intestin:",
+        "options": [
+            "A. C'est la fonction principale du gros intestin",
+            "B. Il assure l'absorption d'eau",
+            "C. Il assure l'absorption d'\u00e9lectrolyte (en particulier Na+, Cl-)",
+            "D. Il assure l'absorption de certaines vitamines",
+            "E. Le r\u00e9sultat de l'absorption est la formation de mati\u00e8res f\u00e9cales"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 38,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects concernant les m\u00e9canismes d'absorption d'eau et d'\u00e9lectrolytes dans le c\u00f4lon proximal:",
+        "options": [
+            "A. L'eau est absorb\u00e9e par un m\u00e9canisme passif",
+            "B. Na+ est absorb\u00e9 par un m\u00e9canisme passif",
+            "C. Na+ est absorb\u00e9 par un m\u00e9canisme actif",
+            "D. Cl- suit passivement l'eau",
+            "E. Cl- est absorb\u00e9 en \u00e9change avec l'anion bicarbonate (HCO3-)"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 39,
+        "question": "L'activit\u00e9 motrice du gros intestin comprend:",
+        "options": [
+            "A. Contractions segmentaires stationnaires du c\u00f4lon proximal facilitant l'absorption d'eau",
+            "B. Contractions p\u00e9ristaltiques stationnaires dans le c\u00f4lon proximal facilitant l'absorption d'eau",
+            "C. Mouvements p\u00e9ristaltiques tr\u00e8s fr\u00e9quents, avec des effets de propagation dans le c\u00f4lon distal",
+            "D. \"Contractions de masse\" rares et fortes dans le c\u00f4lon descendant et le colon sigmo\u00efde",
+            "E. \"Contractions de masse\" rares et fortes avec effet de propagation du colon vers le rectum"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 6,
+        "id": 40,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la cirrhose du foie:",
+        "options": [
+            "A. C'est une maladie aigue du foie",
+            "B. Cela conduit \u00e0 la destruction des cellules h\u00e9patiques",
+            "C. Elle est plus fr\u00e9quente chez les femmes",
+            "D. Elle est induite par des causes sous-jacentes infectieuses, nutritionnelles et toxiques (alcool, certains m\u00e9dicaments, insecticides)",
+            "E. On peut le pr\u00e9venir en traitant certains troubles chroniques (h\u00e9patite, diab\u00e8te sucr\u00e9, lithiase biliaire), une alimentation ad\u00e9quate et \u00e9quilibr\u00e9e et l'\u00e9limination de l'abus d'alcool et de m\u00e9dicaments."
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    }
+]

@@ -1,0 +1,825 @@
+[
+    {
+        "chapitre": 1,
+        "id": 1,
+        "question": "S\u00e9lectionnez la position de r\u00e9f\u00e9rence anatomique du corps:",
+        "options": [
+            "A. Position couch\u00e9e sur le dos",
+            "B. Position verticale",
+            "C. Position couch\u00e9e lat\u00e9rale gauche",
+            "D. Position couch\u00e9e lat\u00e9rale droite",
+            "E. Position couch\u00e9e sur le ventre"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 2,
+        "question": "Se r\u00e9f\u00e9rant aux syst\u00e8mes d'organes, il est vrai que:",
+        "options": [
+            "A. Ils sont constitu\u00e9s de groupes de cellules",
+            "B. Ils remplissent les fonctions principales du corps",
+            "C. Ils sont constitu\u00e9s de tissus",
+            "D. Ils repr\u00e9sentent des unit\u00e9s morphologiques",
+            "E. Ils forment des organes"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 3,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux niveaux d\u2019organisation du corps humain:",
+        "options": [
+            "A. Ce sont des syst\u00e8mes simples",
+            "B. Ce sont des syst\u00e8mes avec divers degr\u00e9s de complexit\u00e9",
+            "C. Ils sont subordonn\u00e9s aux lois du niveau sup\u00e9rieur",
+            "D. Ils sont responsables du fonctionnement de l\u2019organisme dans son ensemble.",
+            "E. Ils sont contr\u00f4l\u00e9s: au niveau nerveux (hormones) et au niveau humoral (r\u00e9flexes)"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 4,
+        "question": "S\u00e9lectionnez la bonne r\u00e9ponse en vous r\u00e9f\u00e9rant \u00e0 l'organisation du corps humain au niveau tissulaire:",
+        "options": [
+            "A. Il y a des groupes de cellules de forme et de structure diff\u00e9rentes",
+            "B. Il y a des groupes de cellules avec diff\u00e9rents r\u00f4les physiologiques",
+            "C. Les cellules sont reli\u00e9es entre elles par une substance intercellulaire - en grande quantit\u00e9 (substance de c\u00e9ment)",
+            "D. Leurs cellules sont interconnect\u00e9es par une substance intercellulaire - en grande quantit\u00e9 (substance fondamentale)",
+            "E. Le niveau tissulaire repr\u00e9sente l'unit\u00e9 structurelle, fonctionnelle et g\u00e9n\u00e9tique du corps"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 5,
+        "question": "Lequel des \u00e9nonc\u00e9s suivants faisant r\u00e9f\u00e9rence au syst\u00e8me digestif est vrais?",
+        "options": [
+            "A. Il comprend le tube digestif et les structures auxiliaires associ\u00e9es \u00e0 la fonction de reproduction",
+            "B. C\u2019est un syst\u00e8me pour le transport des nutriments",
+            "C. Il se compose du tube digestif et des glandes auxiliaires",
+            "D. Il se compose du tube digestif et des glandes endocrines",
+            "E. Il se compose de toutes les glandes endocrines et exocrines du corps"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 6,
+        "question": "Lesquels des \u00e9nonc\u00e9s suivants faisant r\u00e9f\u00e9rence aux segments du corps humain sont vrais?",
+        "options": [
+            "A. Ils contiennent exclusivement des visc\u00e8res",
+            "B. Ils sont repr\u00e9sent\u00e9s par la t\u00eate, le cou, le tronc et les membres",
+            "C. Ils sont repr\u00e9sent\u00e9s par l'extr\u00e9mit\u00e9 c\u00e9phalique, le tronc et les membres",
+            "D. Ils sont aussi appel\u00e9s r\u00e9gions du corps",
+            "E. Ils contiennent des \u00e9l\u00e9ments somatiques et des organes internes"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 7,
+        "question": "La cavit\u00e9 thoracique est s\u00e9par\u00e9e de la cavit\u00e9 abdominale par un muscle appel\u00e9:",
+        "options": [
+            "A. Subcostal",
+            "B. Diaphragme",
+            "C. Diaphragme p\u00e9rin\u00e9al",
+            "D. Intercostale externe",
+            "E. Intercostale interne"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 8,
+        "question": "Les affirmations suivantes se r\u00e9f\u00e9rant a l\u2019axe transversal du corps sont vraies:",
+        "options": [
+            "A. Cela commence du haut de la t\u00eate",
+            "B. Il a un p\u00f4le droit et un p\u00f4le gauche",
+            "C. C\u2019est l\u2019axe de la largeur du corps",
+            "D. Il est parall\u00e8le au front",
+            "E. Chez l'homme, il est positionn\u00e9 horizontalement"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 9,
+        "question": "S\u00e9lectionnez les r\u00e9ponses incorrectes se r\u00e9f\u00e9rant aux axes du corps humain:",
+        "options": [
+            "A. Il y a trois axes: frontal, sagittal et transversal",
+            "B. Chez l'homme, l\u2019axe sagittal est vertical",
+            "C. L\u2019axe transversal a un p\u00f4le gauche et un p\u00f4le droit",
+            "D. Ils correspondent aux dimensions spatiales et ils se croisent \u00e0 angle droit",
+            "E. L\u2019axe sagittal est l\u2019axe correspondant \u00e0 la largeur du corps"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 10,
+        "question": "Les termes anatomiques suivants sont utilis\u00e9s pour le membre inf\u00e9rieur:",
+        "options": [
+            "A. Distal, plus proche de la ceinture",
+            "B. Proximal, plus loin de la ceinture",
+            "C. Tibial, au lieu de m\u00e9dial",
+            "D. Fibulaire, au lieu de lat\u00e9ral",
+            "E. Superficielle, au lieu de profonde"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 11,
+        "question": "Les organites intracytoplasmatiques communs \u00e0 la plupart des cellules sont:",
+        "options": [
+            "A. Le noyau",
+            "B. Le nucl\u00e9ole",
+            "C. Les ribosomes",
+            "D. Le r\u00e9ticulum endoplasmique",
+            "E. L'appareil de Golgi"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 12,
+        "question": "S\u00e9lectionnez les affirmations vraies se r\u00e9f\u00e9rant aux mitochondries:",
+        "options": [
+            "A. Ils sont consid\u00e9r\u00e9s comme les \"centres \u00e9nerg\u00e9tiques\" du noyau",
+            "B. Ce sont des organites sp\u00e9cifiques, ainsi que des neurofibrilles et des corps de Nissl",
+            "C. Ils sont plus nombreux dans les cellules \u00e0 activit\u00e9 intense",
+            "D. Ils jouent un r\u00f4le dans le processus de s\u00e9cr\u00e9tion cellulaire",
+            "E. Ils ont une matrice mitochondriale \u00e0 l'int\u00e9rieur"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 13,
+        "question": "S\u00e9lectionnez les affirmations vraies se r\u00e9f\u00e9rant \u00e0 l'appareil de Golgi:",
+        "options": [
+            "A. Il est situ\u00e9 pr\u00e8s du noyau",
+            "B. Il contient des citernes allong\u00e9es, des microv\u00e9sicules, des macrov\u00e9sicules",
+            "C. Il est situ\u00e9 dans la zone inactive du cytoplasme",
+            "D. Il joue un r\u00f4le dans l'excr\u00e9tion de substances cellulaires",
+            "E. C'est un organite sp\u00e9cifique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 14,
+        "question": "S\u00e9lectionnez les affirmations vraies se r\u00e9f\u00e9rant au r\u00e9ticulum endoplasmique rugueux:",
+        "options": [
+            "A. On l'appelle aussi ergastoplasme",
+            "B. Il a des lysosomes sur la surface externe de sa paroi membraneuse",
+            "C. Il joue un r\u00f4le dans la synth\u00e8se des prot\u00e9ines",
+            "D. Il joue un r\u00f4le important dans la synth\u00e8se du glycog\u00e8ne",
+            "E. Il est impliqu\u00e9 dans l'excr\u00e9tion cellulaire"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 15,
+        "question": "Lesquelles des affirmations suivantes se r\u00e9f\u00e9rant aux corps de Nissl sont vraies?",
+        "options": [
+            "A. Ils sont pr\u00e9sents dans les \u00e9rythrocytes",
+            "B. Ils sont pr\u00e9sents dans la cellule nerveuse",
+            "C. Ce sont des organites intracytoplasmatiques non sp\u00e9cifiques",
+            "D. Ce sont des organites intracytoplasmatiques sp\u00e9cifiques",
+            "E. Ils jouent un r\u00f4le dans la synth\u00e8se des prot\u00e9ines"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 16,
+        "question": "Lesquelles des affirmations suivantes se r\u00e9f\u00e9rant au tissu \u00e9pith\u00e9lial sont vraies?",
+        "options": [
+            "A. Il est constitu\u00e9 de cellules, de fibres et d'une substance fondamentale",
+            "B. Il a une vascularisation riche",
+            "C. Il recouvre la surface du corps",
+            "D. Il tapisse les cavit\u00e9s du corps",
+            "E. Les cellules \u00e9pith\u00e9liales sont \u00e9troitement reli\u00e9es par des jonctions"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 17,
+        "question": "L'\u00e9pith\u00e9lium cylindrique simple pr\u00e9sente les caract\u00e9ristiques suivantes:",
+        "options": [
+            "A. C'est un \u00e9pith\u00e9lium de rev\u00eatement",
+            "B. C'est un \u00e9pith\u00e9lium glandulaire",
+            "C. Il forme la muqueuse du tube digestif",
+            "D. On peut le trouver dans les alv\u00e9oles pulmonaires",
+            "E. Il contient des cellules cylindriques pouvant avoir des cils ou des microvillosit\u00e9s \u00e0 leur extr\u00e9mit\u00e9 apicale"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 18,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux caract\u00e9ristiques g\u00e9n\u00e9rales des tissus \u00e9pith\u00e9liaux:",
+        "options": [
+            "A. Ce sont des tissus avasculaires",
+            "B. Ce sont des tissus richement vascularis\u00e9s",
+            "C. Les cellules \u00e9pith\u00e9liales profondes reposent sur une membrane basale",
+            "D. Ce sont les tissus les plus r\u00e9pandus dans le corps",
+            "E. En fonction de leur r\u00f4le, ils peuvent \u00eatre class\u00e9s en \u00e9pith\u00e9lium couvrant, glandulaire et sensoriel"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 19,
+        "question": "Lesquels des \u00e9nonc\u00e9s suivants se r\u00e9f\u00e9rant aux glandes exocrines sont vrais?",
+        "options": [
+            "A. Le produit de s\u00e9cr\u00e9tion est lib\u00e9r\u00e9 \u00e0 la surface du corps ou dans les cavit\u00e9s",
+            "B. Le produit de s\u00e9cr\u00e9tion est lib\u00e9r\u00e9 dans le sang",
+            "C. Selon le m\u00e9canisme de lib\u00e9ration de la s\u00e9cr\u00e9tion, ils sont: m\u00e9rocrine, holocrine et apocrine",
+            "D. Selon leur structure, ils peuvent \u00eatre: unicellulaires et pluricellulaires",
+            "E. Les cellules \u00e9pith\u00e9liales exocrines peuvent \u00eatre organis\u00e9es en cordons, follicules ou \u00eelots"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 20,
+        "question": "Le tissu musculaire lisse pr\u00e9sente les caract\u00e9ristiques suivantes:",
+        "options": [
+            "A. On peut le trouver dans les muscles de l'iris",
+            "B. Sa contraction est involontaire, lente et prolong\u00e9e",
+            "C. Il a des stries transversales",
+            "D. Il n'a pas de stries transversales",
+            "E. Il est constitu\u00e9 de fibres musculaires lisses \u00e0 aspect fusiforme"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 21,
+        "question": "Le tissu musculaire stri\u00e9 / squelettique peut \u00eatre trouv\u00e9 dans:",
+        "options": [
+            "A. Les muscles squelettiques",
+            "B. Les muscles \u00e9recteurs des cheveux",
+            "C. Les muscles extrins\u00e8ques du globe oculaire",
+            "D. Les parois d'organes creux",
+            "E. La langue"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 22,
+        "question": "Parmi les affirmations suivantes concernant le sarcom\u00e8re, lesquelles sont vraies?",
+        "options": [
+            "A. C'est l'unit\u00e9 morphofonctionnelle des myofibrilles",
+            "B. Il se situe entre deux lignes H successives",
+            "C. Il se situe entre deux lignes Z successives",
+            "D. Il se situe entre la bande sombre et claire",
+            "E. Il se trouve au milieu de la bande claire"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 23,
+        "question": "S\u00e9lectionnez les affirmations correctes se r\u00e9f\u00e9rant au tissu conjonctif l\u00e2che:",
+        "options": [
+            "A. Il contient principalement des fibres de collag\u00e8ne",
+            "B. Il contient des quantit\u00e9s \u00e9gales de cellules, de fibres et de substance fondamentale",
+            "C. Il accompagne les \u00e9pith\u00e9liums",
+            "D. C'est un tissu avasculaire",
+            "E. Il contient des cellules appel\u00e9es fibroblastes"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 24,
+        "question": "S\u00e9lectionnez les d\u00e9clarations correctes se r\u00e9f\u00e9rant au tissu osseux:",
+        "options": [
+            "A. C'est un tissu conjonctif semi-dur",
+            "B. C'est un tissu conjonctif dur",
+            "C. Il contient des ost\u00e9oblastes et des ost\u00e9ocytes",
+            "D. Il est de deux types: compact et spongieux",
+            "E. C'est un tissu conjonctif mou"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 25,
+        "question": "Lesquelles des affirmations suivantes se r\u00e9f\u00e9rant au sang sont vraies?",
+        "options": [
+            "A. Il a une origine m\u00e9sodermique",
+            "B. C'est un type particulier de tissu conjonctif",
+            "C. Il se compose d'\u00e9l\u00e9ments figuratifs et du plasma",
+            "D. C'est un tissu conjonctif dense",
+            "E. Il a une origine ectodermique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 26,
+        "question": "Les globules rouges sont des \u00e9l\u00e9ments sanguins figur\u00e9s pr\u00e9sentant lescaract\u00e9ristiques suivantes:",
+        "options": [
+            "A. Ils ont environ 4,5-5 mil / mm3 de sang",
+            "B. Ils ont environ 4.000 \u00e0 8 000 / mm3 de sang.",
+            "C. Ce sont des cellule.s anucl\u00e9\u00e9es",
+            "D. Ce sont des cellules nucl\u00e9\u00e9es",
+            "E. Ils jouent un r\u00f4le dans le transport des gaz respiratoires"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 27,
+        "question": "Lesquelles des affirmations suivantes se r\u00e9f\u00e9rant au thrombocytes sont correctes?",
+        "options": [
+            "A. Ce sont des fragments cytoplasmiques de cellules pr\u00e9curseurs appel\u00e9s m\u00e9gacaryocytes",
+            "B. Ils contiennent des facteurs de coagulation",
+            "C. Ils contiennent des granules de neutrophiles",
+            "D. Ils sont impliqu\u00e9s dans les inflammations",
+            "E. Ils modulent la r\u00e9ponse immunitaire"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 28,
+        "question": "Les \u00e9osinophiles sont des \u00e9l\u00e9ments sanguins figur\u00e9s qui:",
+        "options": [
+            "A. Modulent la r\u00e9ponse immunitaire",
+            "B. Sont impliqu\u00e9s dans l'h\u00e9mostase",
+            "C. Contiennent des granules d'\u00e9osinophiles",
+            "D. Ne contiennent pas de granul\u00e9s d'\u00e9osinophiles",
+            "E. Ils augmentent en nombre dans les maladies parasitaires"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 29,
+        "question": "Choisissez l\u2019association correcte:",
+        "options": [
+            "A. Piriforme - neurones du cerveau",
+            "B. Piriforme - neurones de la moelle osseuse",
+            "C. Piriforme - neurones du cervelet",
+            "D. Piriforme - neurones du ganglion spinal",
+            "E. Piriforme - neurones nerveux p\u00e9riph\u00e9riques"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 30,
+        "question": "Les axones sont des prolongements de neurones pr\u00e9sentant les caract\u00e9ristiques suivantes:",
+        "options": [
+            "A. Sont des projections courtes et ramifi\u00e9es",
+            "B. Ils repr\u00e9sentent une seule prolongement longue",
+            "C. Ils finissent en boutons synaptiques",
+            "D. Ils sont couverts par un axolemme",
+            "E. Ils repr\u00e9sentent une seule prolongement courte"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 31,
+        "question": "S\u00e9lectionnez les d\u00e9clarations correctes se r\u00e9f\u00e9rant \u00e0 la gaine de Schwann:",
+        "options": [
+            "A. Elle se compose de tissu conjonctif",
+            "B. Elle se compose de cellules gliales enroul\u00e9es autour d'axones",
+            "C. Elle se compose de cellules gliales enroul\u00e9es autour de dendrites",
+            "D. Elle couvre la gaine de my\u00e9line",
+            "E. Elle assure l'isolement de la my\u00e9line des axones neuronaux dans le syst\u00e8me nerveux central"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 32,
+        "question": "Les affirmations suivantes sont vraies se r\u00e9f\u00e9rant au cytoplasme:",
+        "options": [
+            "A. On peut le trouver entre le plasmalemme et le noyau",
+            "B. Il a trois composants: cytosol, organites et inclusions",
+            "C. Il s\u00e9pare la cellule de son environnement",
+            "D. C'est le site de la plupart des activit\u00e9s cellulaires",
+            "E. Il contr\u00f4le les \u00e9changes entre la cellule et son environnement"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 33,
+        "question": "Les microvillosit\u00e9s sont pr\u00e9sentes dans l'\u00e9pith\u00e9lium de:",
+        "options": [
+            "A. L\u2019estomac",
+            "B. La trach\u00e9e",
+            "C. L\u2019intestin gr\u00eale",
+            "D. La vessie urinaire",
+            "E. L\u2019ut\u00e9rus"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 34,
+        "question": "L'\u00e9pith\u00e9lium squameux stratifi\u00e9 non k\u00e9ratinis\u00e9 peut \u00eatre trouv\u00e9 dans:",
+        "options": [
+            "A. L\u2019estomac",
+            "B. L\u2019intestin",
+            "C. La muqueuse buccale",
+            "D. La muqueuse ut\u00e9rine",
+            "E. L\u2019\u00e9piderme"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 35,
+        "question": "Lesquels des \u00e9nonc\u00e9s suivants se r\u00e9f\u00e9rant au tissu adipeux sont vrais?",
+        "options": [
+            "A. Il contient des adipocytes avec un noyau situ\u00e9 \u00e0 la p\u00e9riph\u00e9rie",
+            "B. Il joue un r\u00f4le dans la thermo-isolation, le stockage des nutriments et la protection m\u00e9canique",
+            "C. Il joue un r\u00f4le dans la formation d'\u00e9l\u00e9ments sanguins figur\u00e9s",
+            "D. Il est pr\u00e9sent dans l'hypoderme",
+            "E. Il est pr\u00e9sent dans l'\u00e9piderme"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 36,
+        "question": "Le tissu cartilagineux est une vari\u00e9t\u00e9 de tissu conjonctif pr\u00e9sentant les particularit\u00e9s suivantes:",
+        "options": [
+            "A. C'est un tissu conjonctif semi-dur",
+            "B. C'est un tissu conjonctif dur",
+            "C. Il est bien vascularis\u00e9",
+            "D. Il est avasculaire",
+            "E. Il est couvert par le p\u00e9richondre"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 37,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la membrane cellulaire:",
+        "options": [
+            "A. Elle est organis\u00e9 selon le mod\u00e8le de la mosa\u00efque fluide",
+            "B. Elle a une perm\u00e9abilit\u00e9 s\u00e9lective",
+            "C. Elle est imperm\u00e9able",
+            "D. Elle est polaris\u00e9 \u00e9lectriquement",
+            "E. On peut facilement le distinguer au microscope optique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 38,
+        "question": "S\u00e9lectionnez les d\u00e9clarations correctes concernant le tissu nodal:",
+        "options": [
+            "A. Il assure l'automatisme cardiaque",
+            "B. Il a la capacit\u00e9 de se contracter",
+            "C. Il est form\u00e9 de cellules riches en glycog\u00e8ne",
+            "D. On peut le trouver dans le coeur",
+            "E. On peut le trouver dans les muscles squelettiques"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 39,
+        "question": "L'acide ribonucl\u00e9ique (ARN) peut \u00eatre trouv\u00e9:",
+        "options": [
+            "A. Dans les myofibrilles",
+            "B. Dans les nucl\u00e9oles",
+            "C. Attach\u00e9 \u00e0 la membrane cellulaire",
+            "D. Attach\u00e9 aux lysosomes",
+            "E. Associ\u00e9 \u00e0 des microtubules"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 40,
+        "question": "Les m\u00e9canismes de transport qui utilisent l'\u00e9nergie directe fournie par l'ad\u00e9nosine triphosphate (ATP) sont les suivants:",
+        "options": [
+            "A. Diffusion facilit\u00e9e",
+            "B. Transport actif primaire",
+            "C. Diffusion de l\u2019eau \u00e0 travers une membrane semi-perm\u00e9able",
+            "D. Pompe Na+ / K+",
+            "E. Cotransport"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 41,
+        "question": "Parmi les affirmations suivantes se r\u00e9f\u00e9rant \u00e0 l'osmose, lesquelles sont vraies?",
+        "options": [
+            "A. La pression \u00e0 appliquer pour pr\u00e9venir l\u2019osmose est appel\u00e9e concentration osmotique.",
+            "B. La pression \u00e0 appliquer pour pr\u00e9venir l'osmose est appel\u00e9e pression osmotique.",
+            "C. La pression osmotique est inversement proportionnelle \u00e0 la concentration osmotique",
+            "D. La concentration osmotique est directement proportionnelle au nombre de particules dissoutes dans une solution",
+            "E. L\u2019eau passe d\u2019un compartiment \u00e0 pression osmotique \u00e9lev\u00e9e \u00e0 un compartiment \u00e0 pression osmotique inf\u00e9rieure"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 42,
+        "question": "Lesquelles des caract\u00e9ristiques suivantes d\u00e9finissent le transport actif primaire?",
+        "options": [
+            "A. Le fonctionnement de la prot\u00e9ine de transport n\u00e9cessite une hydrolyse de transport actif primaire direct",
+            "B. Le fonctionnement de la prot\u00e9ine de transport n\u00e9cessite le transfert d'une autrE \u00e9nergie obtenue, par exemple, gr\u00e2ce \u00e0 l'activit\u00e9 de la pompe Na+ / K+",
+            "C. La prot\u00e9ine de transport est appel\u00e9e pompe",
+            "D. Dans le cas de la pompe Na+ / K+, 3Na+ sont expuls\u00e9s et 2K+ sont introduits dans la cellule.",
+            "E. On l'appelle aussi cotransport"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 43,
+        "question": "Laquelle des affirmations suivantes caract\u00e9rise l\u2019excitabilit\u00e9?",
+        "options": [
+            "A. Les stimuli d\u2019intensit\u00e9 inf\u00e9rieure au seuil produisent des potentiels locaux qui ne se propagent pas",
+            "B. Les stimuli ayant une intensit\u00e9 de niveau seuil induisent des alt\u00e9rations physicochimiques du neurone, pouvant g\u00e9n\u00e9rer des impulsions nerveuses",
+            "C. Les stimuli d\u2019intensit\u00e9 sup\u00e9rieure au seuil produisent une impulsion nerveuse plus forte que les stimuli d\u2019intensit\u00e9 de seuil",
+            "D. Le potentiel d'action se propage par un influx nerveux",
+            "E. Il fonctionne sur le principe \"tout ou rien\""
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 44,
+        "question": "Le m\u00e9canisme actif sous-jacent \u00e0 la distribution asym\u00e9trique des ions sur l'une ou l'autre face d'une membrane de neurone au repos n\u00e9cessite:",
+        "options": [
+            "A. Transport des ions Na+ et K+ \u00e0 travers des canaux ioniques",
+            "B. Transport des ions Na+ et K+ par la pompe Na+ / K+",
+            "C. Consommation d'\u00e9nergie via la pompe Na+ / K+",
+            "D. L'activation de la pompe Na+ / K+ qui expulse 2Na+ de la cellule et introduit 3K+ dans la cellule",
+            "E. Un \u00e9change d\u00e9s\u00e9quilibr\u00e9 de Na+ et K+ qui assure une concentration plus \u00e9lev\u00e9e de charges positives \u00e0 l'ext\u00e9rieur de la cellule"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 45,
+        "question": "Lesquelles des caract\u00e9ristiques suivantes du potentiel d\u2019action sont diff\u00e9rentes en fonction du type de cellule?",
+        "options": [
+            "A. M\u00e9canisme de production",
+            "B. Aspect graphique",
+            "C. Le nombre de phases du potentiel d'action",
+            "D. La dur\u00e9e d'un potentiel d'action",
+            "E. Le principe sous-jacent de son apparition"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 46,
+        "question": "Lesquelles des affirmations suivantes se r\u00e9f\u00e9rant aux phases du potentiel d\u2019action des neurones sont vraies?",
+        "options": [
+            "A. La phase latente dure 1 ms",
+            "B. La phase latente est l'intervalle de temps \u00e9coul\u00e9 entre le moment de la stimulation et l'initiation du potentiel d'action",
+            "C. La phase de d\u00e9polarisation dure 1 ms",
+            "D. La phase de d\u00e9polatisation repr\u00e9sente la diminution de la diff\u00e9rence de potentiel entre les deux facettes d\u2019un neurilemme",
+            "E. La phase de repolarisation est induite par la fermeture des canaux Na+ et par l'ouverture des canaux K+"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 47,
+        "question": "La conduction est la propri\u00e9t\u00e9 de la fibre nerveuse de conduire l'impulsion nerveuse:",
+        "options": [
+            "A. Par auto-propagation depuis le lieu d'origine du stimulus",
+            "B. Le long de la fibre nerveuse jusqu'\u00e0 la fin, l\u00e0 o\u00f9 se trouve la synapse",
+            "C. Saltatoire, dans le cas des fibres amy\u00e9linis\u00e9es",
+            "D. N\u0153ud \u00e0 n\u0153ud, dans le cas des fibres my\u00e9linis\u00e9es",
+            "E. \u00c0 une vitesse de 10 m / s dans le cas des fibres my\u00e9linis\u00e9es"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 48,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects concernant la synapse chimique:",
+        "options": [
+            "A. C'est la m\u00e9thode pr\u00e9dominante de transmission du signal dans le syst\u00e8me nerveux central",
+            "B. C'est la m\u00e9thode pr\u00e9dominante de transmission du signal dans le syst\u00e8me nerveux p\u00e9riph\u00e9rique",
+            "C. Assure la conduction bidirectionnelle de l'influx nerveux dans le corps",
+            "D. Contient plus de 40 types de neurotransmetteurs",
+            "E. Se compose de 3 composants: pr\u00e9synaptique, postsynaptique et la fente synaptique"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 49,
+        "question": "La transmission d'une impulsion nerveuse dans une synapse chimique n\u00e9cessite:",
+        "options": [
+            "A. Le potentiel d'action qui atteint le bouton terminal induit la fusion de v\u00e9sicules pr\u00e9synaptiques entre elles",
+            "B. Le potentiel d'action qui atteint le bouton terminal induit la fusion de v\u00e9sicules pr\u00e9synaptiques avec la membrane pr\u00e9synaptique",
+            "C. Le m\u00e9diateur chimique est lib\u00e9r\u00e9 dans la fente synaptique et se lie de mani\u00e8re non sp\u00e9cifique aux prot\u00e9ines des neuror\u00e9cepteurs \u00e0 ce niveau.",
+            "D. L\u2019action du m\u00e9diateur chimique sur la membrane postsynaptique induit un potentiel local qui se propage \u00e0 travers de la membrane neuronale postsynaptique",
+            "E. Elle a une latence de 0.5 ms"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 50,
+        "question": "Lesquels des \u00e9nonc\u00e9s suivants se r\u00e9f\u00e9rant \u00e0 la transmission synaptique sont vrais?",
+        "options": [
+            "A. Les signaux transmis par les synapses ont la m\u00eame intensit\u00e9",
+            "B. Les signaux transmis par les synapses ont toujours un effet stimulant sur la cellule postsynaptique",
+            "C. Les principaux neurotransmetteurs sont l\u2019ac\u00e9tylcholine et la noradr\u00e9naline.",
+            "D. L'ac\u00e9tylcholine est le m\u00e9diateur chimique le moins r\u00e9pandu",
+            "E. La noradr\u00e9naline joue un r\u00f4le dans les \u00e9tats de veille et de vigilance"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    }
+]

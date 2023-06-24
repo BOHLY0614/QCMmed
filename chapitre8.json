@@ -1,0 +1,504 @@
+[
+    {
+        "chapitre": 8,
+        "id": 1,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux voies respiratoires:",
+        "options": [
+            "A. Ils sont divis\u00e9s en deux types: les voies extra-pulmonaires et intra-pulmonaires",
+            "B. Les voies extra-pulmonaires sont repr\u00e9sent\u00e9es par la cavit\u00e9 tympanique, le pharynx, le larynx, la trach\u00e9e et les bronches principales",
+            "C. Les voies intrapulmonaires sont repr\u00e9sent\u00e9es par l\u2019arbre bronchique",
+            "D. Les voies extra-pulmonaires sont repr\u00e9sent\u00e9es par l'arbre bronchique, qui r\u00e9sulte de la ramification de la trach\u00e9e dans les poumons.",
+            "E. Ils forment le syst\u00e8me respiratoire, avec les poumons"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 2,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au pharynx:",
+        "options": [
+            "A. C'est un organe parenchymateux",
+            "B. Il communique avec le larynx par la glotte",
+            "C. Il repr\u00e9sente l'endroit o\u00f9 le tube digestif s\u2019entrecroise avec les voies respiratoires.",
+            "D. Il communique post\u00e9rieurement avec la cavit\u00e9 nasale \u00e0 travers les choanes",
+            "E. Il appartient aux voies intra-pulmonaires"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 3,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux bronches lobaires:",
+        "options": [
+            "A. Ils r\u00e9sultent de la division des bronches principales",
+            "B. Ils sont divis\u00e9s en bronches segmentaires",
+            "C. Il y en a deux dans le poumon droit",
+            "D. Il y en a trois dans le poumon gauche",
+            "E. Ils appartiennent aux voies extra-pulmonaires"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 4,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux poumons:",
+        "options": [
+            "A. Ils sont situ\u00e9s dans le m\u00e9diastin",
+            "B. Ils ont trois faces: externe, interne et basale",
+            "C. Sur leur face externe, ils ont des scissures qui d\u00e9limitent les lobes: trois pour le poumon gauche et deux pour le poumon droit.",
+            "D. Ils sont recouverts d\u2019une s\u00e9reuse appel\u00e9e pl\u00e8vre, constitu\u00e9e de deux couches, visc\u00e9rale et pari\u00e9tale.",
+            "E. Ils sont coniques, la base reposant sur le diaphragme"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 5,
+        "question": "S\u00e9lectionnez l'\u00e9nonc\u00e9 correct relatif \u00e0 la membrane alv\u00e9olocapillaire:",
+        "options": [
+            "A. On l'appelle aussi membrane respiratoire",
+            "B. C'est le site des \u00e9changes gazeux entre la trach\u00e9e et le sang",
+            "C. Il fournit une surface d'\u00e9change respiratoire d'environ 100 m2",
+            "D. Il se compose de la paroi alv\u00e9olaire et de la paroi capillaire",
+            "E. On l'appelle aussi la membrane glom\u00e9rulaire"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 6,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux alv\u00e9oles pulmonaires:",
+        "options": [
+            "A. Il y a environ 20 alv\u00e9oles pour chaque poumon",
+            "B. Ils ont des parois extr\u00eamement minces permettant des \u00e9changes de gaz",
+            "C. Ils ont des parois \u00e9paisses permettant des \u00e9changes gazeux",
+            "D. Ils s'ouvrent dans les canaux alv\u00e9olaires",
+            "E. Ils sont entour\u00e9s d'un riche r\u00e9seau de capillaires sanguins"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 7,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs \u00e0 la pneumonie:",
+        "options": [
+            "A. Elle repr\u00e9sente l'inflammation aigu\u00eb des voies respiratoires extrapulmonaires",
+            "B. Elle repr\u00e9sente l'inflammation aigu\u00eb des alv\u00e9oles pulmonaires",
+            "C. Elle affecte toujours les deux poumons",
+            "D. Elle affecte les lobules pulmonaires qui deviennent inop\u00e9rants et sont remplis de mucus et de pus",
+            "E. Elle peut affecter une partie du poumon ou le poumon entier"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 8,
+        "question": "D'un point de vue fonctionnel, la respiration comprend:",
+        "options": [
+            "A. Ventilation pulmonaire",
+            "B. Diffusion d'O2 et de CO2 entre les alv\u00e9oles pulmonaires et le sang",
+            "C. Transport d'O2 par le sang et les liquides organiques des cellules aux poumons",
+            "D. Transport de CO2 par le sang et les fluides corporels des poumons aux cellules",
+            "E. R\u00e9gulation de la ventilation"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 9,
+        "question": "La ventilation pulmonaire comprend:",
+        "options": [
+            "A. Introduction de l'air dans les alv\u00e9oles pulmonaires (inspiration)",
+            "B. \u00c9limination de l'air en parcourant une trajectoire inverse (expiration)",
+            "C. Changements en sens inverse des volumes de la cavit\u00e9 thoracique et des poumons",
+            "D. La distension des poumons pendant l'inspiration",
+            "E. La r\u00e9traction des poumons pendant l'expiration"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 10,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la respiration basale (au repos):",
+        "options": [
+            "A. L'inspiration est un processus passif",
+            "B. L'inspiration est un processus actif",
+            "C. L'expiration est un processus passif",
+            "D. L'expiration est un processus actif",
+            "E. L'inspiration et l'expiration sont des processus passifs"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 11,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 l'inspiration au repos:",
+        "options": [
+            "A. C'est un processus actif induit par l'augmentation des deux diam\u00e8tres de la cage thoracique",
+            "B. La contraction des muscles intercostaux externes d\u00e9termine la mont\u00e9e et l\u2019horizontation des c\u00f4tes",
+            "C. En raison de la surface du diaphragme (environ 250 cm2), sa descente de 1,5 cm induit une augmentation de 75% du volume de la cage thoracique.",
+            "D. L\u2019expansion des poumons est facilit\u00e9e par l\u2019adh\u00e9rence de la cage thoracique \u00e0 travers la pl\u00e8vre",
+            "E. Les poumons suivent l'expansion thoracique et se distendent activement"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 12,
+        "question": "S\u00e9lectionnez les muscles respiratoires accessoires impliqu\u00e9s dans l'inspiration forc\u00e9e:",
+        "options": [
+            "A. Le muscle sternocl\u00e9idomasto\u00efdien",
+            "B. Les muscles intercostaux internes",
+            "C. Les trap\u00e8zes",
+            "D. Les muscles du dos",
+            "E. Le muscle diaphragme"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 13,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au muscle diaphragme:",
+        "options": [
+            "A. C'est un muscle lisse qui s\u00e9pare compl\u00e8tement la cavit\u00e9 thoracique de celle abdominale",
+            "B. Il transforme la cavit\u00e9 thoracique en une cavit\u00e9 pneumatique",
+            "C. Il a diff\u00e9rentes positions au cours des diff\u00e9rentes phases du cycle respiratoire",
+            "D. En inspiration, il se cambre vers la cavit\u00e9 abdominale",
+            "E. Pendant l'expiration, il devient plat"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 14,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la respiration au repos:",
+        "options": [
+            "A. La fr\u00e9quence respiratoire au repos est de 60 \u00e0 80 respirations / minute",
+            "B. L'inspiration et l'expiration se succ\u00e8dent 16-18 fois / minute",
+            "C. Le rythme respiratoire et l\u2019amplitude varient en fonction des besoins en oxyg\u00e8ne du corps et du CO2 qu\u2019il lib\u00e8re",
+            "D. D'un point de vue temporel, l'inspiration repr\u00e9sente les deux tiers d'une respiration reposante",
+            "E. D'un point de vue temporel, l'expiration repr\u00e9sente un tiers de la respiration au repos"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 15,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au volume courant:",
+        "options": [
+            "A. Il repr\u00e9sente le volume d'air qui entre dans les poumons lors d'une respiration normale",
+            "B. Il repr\u00e9sente le volume d'air expuls\u00e9 des poumons lors d'une respiration normale.",
+            "C. Il repr\u00e9sente le volume d'air qui atteint les alv\u00e9oles pulmonaires",
+            "D. C'est environ 500 ml chez un jeune adulte",
+            "E. C'est 1500 ml chez un jeune adulte"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 16,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la signification des volumes et de la capacit\u00e9 pulmonaire:",
+        "options": [
+            "A. Capacit\u00e9 inspiratoire = le volume d'air qui peut \u00eatre inspir\u00e9 par une inspiration maximale qui commence \u00e0 la fin d'une inspiration au repos",
+            "B. Volume de r\u00e9serve expiratoire = le volume d'air maximal pouvant \u00eatre expir\u00e9 des poumons par expiration forc\u00e9e apr\u00e8s une inspiration au repos",
+            "C. Capacit\u00e9 r\u00e9siduelle fonctionnelle = le volume d'air maximal qui reste dans les poumons apr\u00e8s une p\u00e9riode d'expiration au repos",
+            "D. Capacit\u00e9 vitale = le volume d'air maximal pouvant \u00eatre expir\u00e9 des poumons par expiration forc\u00e9e apr\u00e8s inspiration maximale",
+            "E. Capacit\u00e9 pulmonaire totale = le volume d'air contenu dans les poumons \u00e0 la fin de l'inspiration maximale"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 17,
+        "question": "Si nous savons que le volume courant = 500 ml, le volume de r\u00e9serve inspiratoire= 1500 ml, le volume de r\u00e9serve expiratoire = 1300 ml, le volume r\u00e9siduel = 1500 ml, alors il est vrai que:",
+        "options": [
+            "A. La capacit\u00e9 inspiratoire = 2000 ml",
+            "B. La capacit\u00e9 r\u00e9siduelle fonctionnelle = 2800 ml",
+            "C. La capacit\u00e9 vitale = 3500 ml",
+            "D. La capacit\u00e9 pulmonaire totale = 4800 ml",
+            "E. La capacit\u00e9 pulmonaire totale = 3500 ml"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 18,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la fr\u00e9quence respiratoire:",
+        "options": [
+            "A. C\u2019est de 16 respirations / minute chez les femmes",
+            "B. C\u2019est de 18 respirations / minute chez les hommes",
+            "C. Cela d\u00e9pend de la demande en O2",
+            "D. Cela d\u00e9pend de la quantit\u00e9 de CO2 lib\u00e9r\u00e9e",
+            "E. C\u2019est enregistr\u00e9 graphiquement avec un pneumographe"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 19,
+        "question": "Les facteurs d\u00e9terminant la diffusion des gaz \u00e0 travers la membrane alv\u00e9olocapillaire (respiratoire) sont les suivants:",
+        "options": [
+            "A. Le gradient de pression partiel des gaz des deux c\u00f4t\u00e9s de la membrane alv\u00e9olocapillaire",
+            "B. La surface de diffusion",
+            "C. L'\u00e9paisseur de la membrane respiratoire qui, \u00e9tant tr\u00e8s mince, emp\u00eache le processus de diffusion",
+            "D. Le coefficient de diffusion des gaz respiratoires \u00e0 travers la membrane respiratoire",
+            "E. Le coefficient de diffusion de l'eau \u00e0 travers la membrane respiratoire"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 20,
+        "question": "Le CO2 diffuse \u00e0 travers la membrane alv\u00e9olocapillaire:",
+        "options": [
+            "A. D'une pression partiellement sup\u00e9rieure dans l'air alv\u00e9olaire (46 mm Hg) \u00e0 une pression inf\u00e9rieure \u00e0 l'extr\u00e9mit\u00e9 art\u00e9rielle du capillaire pulmonaire (40 mm Hg)",
+            "B. D'une pression partiellement sup\u00e9rieure \u00e0 l'extr\u00e9mit\u00e9 art\u00e9rielle du sang capillaire (46 mm Hg) \u00e0 une pression inf\u00e9rieure dans l'air alv\u00e9olaire (40 mm Hg)",
+            "C. D'une pression partiellement sup\u00e9rieure \u00e0 l'extr\u00e9mit\u00e9 veineuse du sang capillaire (46 mm Hg) \u00e0 une pression inf\u00e9rieure dans l'air alv\u00e9olaire (40 mm Hg)",
+            "D. Bas\u00e9e sur un gradient de pression inf\u00e9rieur \u00e0 celui de l'O 2, mais compens\u00e9e par la solubilit\u00e9 du CO2 qui est 25 fois sup\u00e9rieure \u00e0 celle de l'O2",
+            "E. Avec une vitesse de diffusion 20 fois sup\u00e9rieure \u00e0 celle de l'O 2"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 21,
+        "question": "Le processus de diffusion des gaz respiratoires \u00e0 travers la membrane respiratoire est facilit\u00e9 par:",
+        "options": [
+            "A. La large surface de diffusion, d'environ 80 m 2 chez l'adulte",
+            "B. La maigreur de la membrane respiratoire",
+            "C. Le coefficient de diffusion \u00e9lev\u00e9 du CO2",
+            "D. Le coefficient de diffusion \u00e9lev\u00e9 de l'O2",
+            "E. Le gradient de pression du CO2 plus \u00e9lev\u00e9 que celui de l'O2"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 22,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au transport de l'oxyg\u00e8ne combin\u00e9 \u00e0 l'h\u00e9moglobine:",
+        "options": [
+            "A. Il repr\u00e9sente la principale m\u00e9thode de transport de l\u2019oxyg\u00e8ne sanguin",
+            "B. Chaque mol\u00e9cule d'h\u00e9moglobine peut se combiner avec 8 mol\u00e9cules d'O 2",
+            "C. La formation et la dissociation de l'oxyh\u00e9moglobine d\u00e9pendent de la temp\u00e9rature du sang et du pH-ul de l'environnement interne",
+            "D. Au niveau des tissus, certains facteurs facilitent la charge d'h\u00e9moglobine avec O2",
+            "E. Au niveau des alv\u00e9oles pulmonaires, certains facteurs facilitent la lib\u00e9ration de l'O2 par l'HbO2"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 23,
+        "question": "L\u2019association de l\u2019oxyg\u00e8ne et de l\u2019h\u00e9moglobine est:",
+        "options": [
+            "A. Une r\u00e9action d'oxydation",
+            "B. Une r\u00e9action d'oxyg\u00e9nation",
+            "C. Une r\u00e9action chimique oxyr\u00e9ductive",
+            "D. Facilit\u00e9e par la pr\u00e9sence de Fe2 +",
+            "E. Facilit\u00e9 par l'anhydrase carbonique"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 24,
+        "question": "Les formes de transport de l\u2019oxyg\u00e8ne sanguin sont:",
+        "options": [
+            "A. Carboh\u00e9moglobine",
+            "B. 1,5% physiquement dissous dans le plasma",
+            "C. 98,5% sous forme d'oxyh\u00e9moglobine",
+            "D. Sous forme de combinaison r\u00e9versible avec les ions de fer dans la structure de l'h\u00e9moglobine",
+            "E. Sous forme de combinaison r\u00e9versible avec les groupes terminaux NH2 de l'h\u00e9moglobine"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 25,
+        "question": "Le transport sanguin de CO2 est termin\u00e9 est r\u00e9alis\u00e9:",
+        "options": [
+            "A. De 3 mani\u00e8res",
+            "B. Sous forme libre (petite proportion)",
+            "C. Sous forme de bicarbonate de K dans le plasma (KHCO 3) (la proportion la plus \u00e9lev\u00e9e)",
+            "D. Sous forme de bicarbonate de sodium (NaHCO 3) dans les \u00e9rythrocytes (la proportion la plus \u00e9lev\u00e9e)",
+            "E. Sous forme de carboh\u00e9moglobine (la proportion la plus \u00e9lev\u00e9e)"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 26,
+        "question": "Lesquels des r\u00e9cepteurs suivants interviennent dans le contr\u00f4le automatique de la respiration?",
+        "options": [
+            "A. Baror\u00e9cepteurs pulmonaires, stimul\u00e9s par la pression sanguine capillaire",
+            "B. Baror\u00e9cepteurs pulmonaires, terminaisons sensorielles du nerf glossopharyng\u00e9 (X)",
+            "C. Ch\u00e9mor\u00e9cepteurs aortiques, terminaisons sensorielles du nerf vague (X)",
+            "D. Ch\u00e9mor\u00e9cepteurs carotidiens, terminaisons sensorielles du nerf glossopharyng\u00e9 (IX)",
+            "E. Ch\u00e9mor\u00e9cepteurs bulbaires, r\u00e9cepteurs de pH d\u00e9pendant de PCO2"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 27,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux r\u00e9cepteurs respiratoires primaires:",
+        "options": [
+            "A. Ils sont situ\u00e9s dans le bulbe",
+            "B. Ils sont situ\u00e9s dans le m\u00e9senc\u00e9phale",
+            "C. Ils n'ont pas leur propre automatisme",
+            "D. Ils passent alternativement entre les phases d'activit\u00e9 et de repos",
+            "E. Ils sont contr\u00f4l\u00e9s par les centres respiratoires secondaires"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 28,
+        "question": "L'activit\u00e9 automatique des centres respiratoires est influenc\u00e9e par:",
+        "options": [
+            "A. La concentration en O2 dans l'air alv\u00e9olaire",
+            "B. La concentration de CO2 dans l'air alv\u00e9olaire",
+            "C. Le degr\u00e9 de distension des parois alv\u00e9olaires",
+            "D. Les impulsions re\u00e7ues des r\u00e9cepteurs cutan\u00e9s",
+            "E. Les impulsions re\u00e7ues des propriocepteurs"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 29,
+        "question": "La voie eff\u00e9rente dans le contr\u00f4le automatique de la respiration est repr\u00e9sent\u00e9e par:",
+        "options": [
+            "A. Fibres sensorielles du nerf vague",
+            "B. Fibres motrices du nerf vague",
+            "C. Fibres motrices du nerf glossopharyng\u00e9",
+            "D. Fibres motrices somatiques distribu\u00e9es aux muscles intercostaux",
+            "E. Fibres motrices autonomes distribu\u00e9es au muscle diaphragme"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 8,
+        "id": 30,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects faisant r\u00e9f\u00e9rence au contr\u00f4le volontaire de la respiration:",
+        "options": [
+            "A. Il est r\u00e9alis\u00e9 au niveau cortical",
+            "B. Il est r\u00e9alis\u00e9 en agissant sur les motoneurones autonomes qui innervent les muscles respiratoires.",
+            "C. Il est r\u00e9alis\u00e9 en agissant sur les centres bulbopontines",
+            "D. Il peut causer des alt\u00e9rations du rythme respiratoire",
+            "E. Il peut arr\u00eater la respiration (apn\u00e9e)"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    }
+]

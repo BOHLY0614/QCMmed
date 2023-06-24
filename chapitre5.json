@@ -1,0 +1,832 @@
+[
+    {
+        "chapitre": 5,
+        "id": 1,
+        "question": "La formation et le d\u00e9veloppement des os sont r\u00e9alis\u00e9s:",
+        "options": [
+            "A. \u00c0 travers le processus d'ost\u00e9ogen\u00e8se",
+            "B. \u00c0 travers le processus d'ost\u00e9olyse",
+            "C. Par la transformation du tissu cartilagineux de l'embryon dans le tissu osseux de l'adulte",
+            "D. Seulement dans la vie intra-ut\u00e9rine",
+            "E. En trois \u00e9tapes"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 2,
+        "question": "L'augmentation de la longueur des os est r\u00e9alis\u00e9e:",
+        "options": [
+            "A. Par ossification membranaire (enchondrale)",
+            "B. Par l'ossification du cartilage (desmal)",
+            "C. \u00c0 travers les cartilages de croissance situ\u00e9s \u00e0 la jonction de l'\u00e9piphyse et de la diaphyse",
+            "D. En formant un nouveau tissu osseux vers la diaphyse",
+            "E. Dans les os longs (\u00e0 la fois en diaphyse et en \u00e9piphyse)"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 3,
+        "question": "S\u00e9lectionnez les modifications qui se produisent dans les points d'ossification des os membranaires:",
+        "options": [
+            "A. La destruction du cartilage de croissance se produit, suivie par la formation d'os",
+            "B. Il y a une ossification directe de certaines membranes conjonctives",
+            "C. Les cellules conjonctives sont transform\u00e9es en ost\u00e9oblastes s\u00e9cr\u00e9tant de l'oss\u00e9ine",
+            "D. L\u2019ossein est impr\u00e9gn\u00e9 de sels de calcium",
+            "E. L'ossification irradie de la p\u00e9riph\u00e9rie vers le centre et \u00e0 travers des anastomoses forme l'os"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 4,
+        "question": "Parmi les affirmations suivantes se r\u00e9f\u00e9rant \u00e0 la croissance osseuse, lesquelles sont vraies?",
+        "options": [
+            "A. La croissance en longueur est due \u00e0 la couche ost\u00e9og\u00e9nique interne du p\u00e9rioste",
+            "B. La croissance en \u00e9paisseur est due au cartilage de croissance entre la diaphyse et chaque \u00e9piphyse",
+            "C. La croissance osseuse est bas\u00e9e sur l'ost\u00e9ogen\u00e8se (formation de tissu osseux par les ost\u00e9ocytes)",
+            "D. Le remodelage osseux est le r\u00e9sultat de l'ost\u00e9olyse (la destruction des os par les ost\u00e9oclastes)",
+            "E. Les facteurs qui contr\u00f4lent la croissance osseuse sont g\u00e9n\u00e9tiques, hormonaux et nutritionnels"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 5,
+        "question": "La croissance osseuse d\u00e9pend de:",
+        "options": [
+            "A. Facteurs endocriniens",
+            "B. Vitamines",
+            "C. Enzymes",
+            "D. Aliments riches en sels de calcium",
+            "E. Aliments pauvres en sels de calcium"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 6,
+        "question": "Le remodelage osseux est r\u00e9glement\u00e9 par:",
+        "options": [
+            "A. Deux m\u00e9canismes: hormonal et nerveux",
+            "B. Le m\u00e9canisme nerveux qui maintient le niveau de calcium sanguin \u00e0 des niveaux optimaux",
+            "C. Le m\u00e9canisme nerveux qui implique la r\u00e9ponse osseuse \u00e0 l'action de forces m\u00e9caniques",
+            "D. Le m\u00e9canisme hormonal qui implique la r\u00e9ponse osseuse aux forces de gravitation",
+            "E. Le m\u00e9canisme hormonal qui maintient le niveau de calcium sanguin \u00e0 des niveaux optimaux"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 7,
+        "question": "S\u00e9lectionnez l'\u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au syst\u00e8me osseux:",
+        "options": [
+            "A. Il se compose de tous les os du corps reli\u00e9s par les muscles",
+            "B. Il comprend tous les muscles du corps (somatiques et visc\u00e9raux)",
+            "C. Il contient des organes durs",
+            "D. Il contient des organes r\u00e9sistants",
+            "E. Il contient des organes constitu\u00e9s de tissu conjonctif mou"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 8,
+        "question": "Selon le rapport existant entre les trois dimensions, les os peuvent \u00eatre:",
+        "options": [
+            "A. Plats",
+            "B. Pneumatique",
+            "C. S\u00e9samo\u00efde",
+            "D. Court",
+            "E. Long"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 9,
+        "question": "Le squelette de la t\u00eate est constitu\u00e9 de:",
+        "options": [
+            "A. Visc\u00e9rocr\u00e2ne, qui prot\u00e8ge l'enc\u00e9phale",
+            "B. Neurocr\u00e2ne, constitu\u00e9 de 14 os",
+            "C. Visc\u00e9rocr\u00e2ne, constitu\u00e9 de 8 os",
+            "D. Os paires et impaires",
+            "E. Os courts"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 10,
+        "question": "Les os paires du neurocr\u00e2ne sont:",
+        "options": [
+            "A. Palatines",
+            "B. Nasaux",
+            "C. Pari\u00e9taux",
+            "D. Temporaux",
+            "E. Maxillaires"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 11,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs \u00e0 la colonne vert\u00e9brale:",
+        "options": [
+            "A. Elle repr\u00e9sente le squelette axial du corps",
+            "B. Elle a 5 r\u00e9gions: cervicale, ventrale, thoracale, lombaire et sacr\u00e9e",
+            "C. Elle est situ\u00e9e dans la partie m\u00e9diane et ant\u00e9rieure du corps",
+            "D. Elle est courb\u00e9 sagittalement et frontalement",
+            "E. Elle se compose des pi\u00e9ces osseuses appel\u00e9s vert\u00e8bres"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 12,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la colonne vert\u00e9brale:",
+        "options": [
+            "A. Elle joue un triple r\u00f4le",
+            "B. Elle joue un double r\u00f4le",
+            "C. C'est l'axe de soutien du squelette",
+            "D. Elle prot\u00e8ge la moelle \u00e9pini\u00e8re",
+            "E. Elle participe aux mouvements de la t\u00eate et du tronc"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 13,
+        "question": "Une vert\u00e8bre typique a:",
+        "options": [
+            "A. Ant\u00e9rieurement, l'arc vert\u00e9bral",
+            "B. Ant\u00e9rieurement, le corps vert\u00e9bral",
+            "C. Post\u00e9rieurement, l'arc vert\u00e9bral",
+            "D. Post\u00e9rieurement, le corps vert\u00e9bral",
+            "E. Le foramen vert\u00e9bral qui, par la superposition des vert\u00e8bres, forme les foramens intervert\u00e9brales"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 14,
+        "question": "Les courbures sagittales de la colonne vert\u00e9brale sont:",
+        "options": [
+            "A. Cervicales, avec concavit\u00e9 post\u00e9rieure",
+            "B. Thoracales, avec convexit\u00e9 ant\u00e9rieure",
+            "C. Lombaires, avec concavit\u00e9 post\u00e9rieure",
+            "D. Sacr\u00e9es, avec convexit\u00e9 ant\u00e9rieure",
+            "E. Scoliose, avec convexit\u00e9 gauche ou droite"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 15,
+        "question": "L'os sacrum r\u00e9sulte de la fusion de:",
+        "options": [
+            "A. 7 vert\u00e8bres sacr\u00e9es",
+            "B. 12 vert\u00e8bres sacr\u00e9es",
+            "C. 4-5 vert\u00e8bres sacr\u00e9es",
+            "D. 5 vert\u00e8bres sacr\u00e9es",
+            "E. 4 vert\u00e8bres sacr\u00e9es"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 16,
+        "question": "Le squelette du thorax est constitu\u00e9 de:",
+        "options": [
+            "A. 12 vert\u00e8bres thoraciques, ant\u00e9rieurement",
+            "B. 12 vert\u00e8bres cervicales, ant\u00e9rieurement",
+            "C. 12 paires de c\u00f4tes, ant\u00e9rieurement",
+            "D. 12 paires de c\u00f4tes lat\u00e9ralement",
+            "E. Sternum, situ\u00e9 ant\u00e9rieurement"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 17,
+        "question": "Les c\u00f4tes pr\u00e9sentent les caract\u00e9ristiques suivantes, \u00e0 une exception",
+        "options": [
+            "pr\u00e8s. Qui est-ce?",
+            "A. Elles s'\u00e9tendent de la colonne vert\u00e9brale cervicale au sternum",
+            "B. Elles sont divis\u00e9es en trois cat\u00e9gories",
+            "C. Il y a douze paires de c\u00f4tes",
+            "D. Seuls certains d\u2019entre eux s\u2019articulent directement avec le sternum"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 18,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 la ceinture scapulaire:",
+        "options": [
+            "A. Elle relie le membre sup\u00e9rieur propre au squelette du bassin osseux",
+            "B. Elle se compose de la clavicule et de l'omoplate",
+            "C. Elle a deux articulations avec le squelette axial",
+            "D. Elle a une seule articulation avec le squelette axial",
+            "E. Elle relie le membre sup\u00e9rieur propre au squelette du thorax osseux"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 19,
+        "question": "La clavicule s'articule avec:",
+        "options": [
+            "A. Lat\u00e9ralement, avec l'omoplate \u00e0 travers l'extr\u00e9mit\u00e9 acromiale",
+            "B. M\u00e9dialement, avec l'omoplate \u00e0 travers l'extr\u00e9mit\u00e9 acromiale",
+            "C. Lat\u00e9ralement, avec le manubrium sternal \u00e0 travers l'extr\u00e9mit\u00e9 sternale",
+            "D. M\u00e9dialement, avec le manubrium sternal \u00e0 travers l'extr\u00e9mit\u00e9 sternale",
+            "E. Lat\u00e9ralement, avec l'hum\u00e9rus \u00e0 travers la fosse gl\u00e9no\u00efde"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 20,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs au squelette du membre sup\u00e9rieur:",
+        "options": [
+            "A. Il est reli\u00e9 au squelette du tronc par la ceinture scapulaire.",
+            "B. Il est reli\u00e9 au squelette du tronc par la ceinture pelvienne.",
+            "C. L'hum\u00e9rus forme lui-m\u00eame le squelette de l'avant-bras",
+            "D. Le squelette de la main est compos\u00e9 de 8 os carpiens, de 5 m\u00e9tacarpiens et de",
+            "14 phalanges"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 21,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs au squelette du membre inf\u00e9rieur:",
+        "options": [
+            "A. Il est reli\u00e9 au squelette du tronc par la ceinture sacrale",
+            "B. Il est reli\u00e9 au squelette du tronc par la ceinture pelvienne.",
+            "C. Le f\u00e9mur participe \u00e0 la formation du squelette du pied",
+            "D. Le squelette de la cuisse est constitu\u00e9 de deux os, le tibia et le p\u00e9ron\u00e9",
+            "E. La ceinture pelvienne est form\u00e9e par les deux os coxaux et le sacrum"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 22,
+        "question": "La ceinture pelvienne comprend:",
+        "options": [
+            "A. Les deux os sacr\u00e9s",
+            "B. Les deux os coxaux",
+            "C. Le f\u00e9mur",
+            "D. Deux os: ilium et ischium",
+            "E. Deux os: ilium et pubis"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 23,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au squelette de la cuisse:",
+        "options": [
+            "A. Il se compose de deux os, le tibia et le p\u00e9ron\u00e9",
+            "B. Il se compose d'un seul os: le f\u00e9mur",
+            "C. Il contient un os qui, par l'\u00e9piphyse distale, s'articule avec le tibia et le p\u00e9ron\u00e9",
+            "D. Il contient un os qui, par l'\u00e9piphyse proximale, s'articule avec l'os coxal",
+            "E. Il contient un os qui, par l'\u00e9piphyse distale, s'articule ant\u00e9rieurement avec la rotule"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 24,
+        "question": "Le squelette de la jambe se compose de:",
+        "options": [
+            "A. Deux os: le tibia et le p\u00e9ron\u00e9",
+            "B. Trois os: le tibia, le p\u00e9ron\u00e9 et la rotule",
+            "C. Un os plus grand situ\u00e9 lat\u00e9ralement",
+            "D. Un os plus gros situ\u00e9 m\u00e9dialement",
+            "E. Un os s\u00e9samo\u00efde"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 25,
+        "question": "Le squelette du pied est constitu\u00e9 de:",
+        "options": [
+            "A. 8 os tarsiens",
+            "B. 7 os tarsiens",
+            "C. 7 os m\u00e9tatarsiens",
+            "D. 5 os m\u00e9tatarsiens",
+            "E. 14 phalanges"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 26,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux cellules osseuses:",
+        "options": [
+            "A. Les ost\u00e9oblastes s\u00e9cr\u00e8tent des prot\u00e9ines qui entrent dans la composition de l'oss\u00e9ine",
+            "B. Les ost\u00e9ocytes sont des cellules osseuses qui perdent leur r\u00f4le s\u00e9cr\u00e9toire",
+            "C. Les ost\u00e9oclastes ont une activit\u00e9 ost\u00e9olytique stimul\u00e9e par la calcitonine",
+            "D. Les ost\u00e9oclastes ont une activit\u00e9 ost\u00e9olytique inhib\u00e9e par la parathormone",
+            "E. Les ost\u00e9oplastes contiennent deux ost\u00e9ocytes chacun"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 27,
+        "question": "Lesquels des \u00e9nonc\u00e9s suivants faisant r\u00e9f\u00e9rence au r\u00f4le du syst\u00e8me osseux sont vrais?",
+        "options": [
+            "A. Il prot\u00e8ge la moelle \u00e9pini\u00e8re dans le canal m\u00e9dullaire",
+            "B. Il d\u00e9finit la forme caract\u00e9ristique du corps",
+            "C. Il supporte le poids du corps",
+            "D. Ii pr\u00e9sente des points d'insertion pour les muscles",
+            "E. La moelle osseuse rouge dans le tissu compact des \u00e9piphyses des os longs est un organe h\u00e9matopo\u00ef\u00e9tique"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 28,
+        "question": "La fonction m\u00e9canique des os comprend:",
+        "options": [
+            "A. Soutien des tissus mous du corps",
+            "B. Locomotion, les os \u00e9tant la composante active du syst\u00e8me locomoteur",
+            "C. Former un syst\u00e8me de leviers sur lesquels les muscles agissent",
+            "D. La protection de certains organes vitaux (cerveau, c\u0153ur, poumons)",
+            "E. La formation d'\u00e9l\u00e9ments sanguins figur\u00e9s dans la moelle \u00e9pini\u00e8re"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 29,
+        "question": "La fonction m\u00e9tabolique des os comprend les aspects suivants:",
+        "options": [
+            "A. La protection de certains organes vitaux",
+            "B. D\u00e9p\u00f4t de sels min\u00e9raux dans les os",
+            "C. Les processus de fixation ou de mobilisation des substances min\u00e9rales",
+            "D. La formation d'\u00e9l\u00e9ments sanguins figur\u00e9s dans la moelle des os spongieux",
+            "E. La formation d'\u00e9l\u00e9ments sanguins figur\u00e9s dans la moelle osseuse compacte"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 30,
+        "question": "S\u00e9lectionnez l'\u00e9nonc\u00e9 incorrect faisant r\u00e9f\u00e9rence \u00e0 la d\u00e9min\u00e9ralisation osseuse:",
+        "options": [
+            "A. Chez l'adulte, il assure l'\u00e9quilibre du calcium et du phosphore ainsi que la min\u00e9ralisation osseuse",
+            "B. Pendant la grossesse, une partie du calcium de la m\u00e8re est mobilis\u00e9e dans le corps du f\u0153tus",
+            "C. Il se d\u00e9roule en parall\u00e8le avec la paralysie musculaire",
+            "D. Chez les personnes \u00e2g\u00e9es, les processus de d\u00e9min\u00e9ralisation sont plus actifs que ceux de min\u00e9ralisation",
+            "E. Chez les jeunes, les processus de d\u00e9min\u00e9ralisation sont plus actifs que ceux de min\u00e9ralisation"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 31,
+        "question": "Le r\u00f4le de si\u00e8ge principal des organes h\u00e9matopo\u00ef\u00e9tiques est assur\u00e9e par:",
+        "options": [
+            "A. Les os larges de l'enfant",
+            "B. Les os larges de l'adult",
+            "C. Tous les os de l'enfant",
+            "D. La moelle rouge dans le canal central des diaphyses \u00e0 os long, chez l'adulte",
+            "E. La moelle rouge dans le canal central des diaphyses \u00e0 os long chez les personnes \u00e2g\u00e9es"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 32,
+        "question": "Les articulations sont des organes qui relient:",
+        "options": [
+            "A. Deux os",
+            "B. Plusieurs extr\u00e9mit\u00e9s des os",
+            "C. Des os et des muscles",
+            "D. Deux ou plusieurs muscles",
+            "E. Des muscles et des tendons"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 33,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux synarthroses:",
+        "options": [
+            "A. Ils n'ont pas de cavit\u00e9 articulaire",
+            "B. Ils sont des articulations fixes",
+            "C. Ce sont des articulations immobiles",
+            "D. Selon le type de tissu situ\u00e9 entre les os de l'articulation, ceux-ci sont class\u00e9s en: syndesmoses, synchondroses, synostososes",
+            "E. Ils ont une cavit\u00e9 articulaire"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 34,
+        "question": "Il y a trois cat\u00e9gories de leviers dans le corps, caract\u00e9ris\u00e9s par:",
+        "options": [
+            "A. Un point d'appui (F), repr\u00e9sent\u00e9 par l\u2019articulation",
+            "B. L\u2019effort (E), repr\u00e9sent\u00e9 par les muscles en contraction",
+            "C. L'effort (E), repr\u00e9sent\u00e9 par les os",
+            "D. R\u00e9sistance (R), repr\u00e9sent\u00e9e par les os",
+            "E. R\u00e9sistance (R), repr\u00e9sent\u00e9e par les muscles en contraction"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 35,
+        "question": "Une articulation synoviale peut effectuer les types de mouvements suivants:",
+        "options": [
+            "A. Flexion (rapprochant deux segments adjacents)",
+            "B. Extension (rapprochant deux segments adjacents)",
+            "C. Adduction (\u00e9loignement d'un segment de l'axe m\u00e9dian du corps)",
+            "D. Abduction (\u00e9loignement d'un segment de l'axe m\u00e9dian du corps)",
+            "E. Pronation - supination"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 36,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant aux fractures:",
+        "options": [
+            "A. Cela repr\u00e9sente la rupture totale ou partielle d'un os suite au traumatisme d'une certaine violence",
+            "B. Cela repr\u00e9sente la dislocation des \u00e9l\u00e9ments composant une articulation",
+            "C. Elles peuvent \u00eatre spontan\u00e9es dans le cas d'une maladie syst\u00e9mique",
+            "D. Elles peuvent \u00eatre la cons\u00e9quence d'une position d\u00e9fectueuse",
+            "E. Elles peuvent se produire, dans des cas particuliers, dans des troubles syst\u00e9miques"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 37,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au syst\u00e8me musculaire:",
+        "options": [
+            "A. Il se compose de tous les muscles du corps",
+            "B. Les muscles somatiques (visc\u00e9raux) sont constitu\u00e9s de tissu musculaire stri\u00e9",
+            "C. Les muscles somatiques, ainsi que les os et les articulations correspondants, assurent le mouvement des segments du corps",
+            "D. Les muscles visc\u00e9raux (stri\u00e9s) assurent la motilit\u00e9 des visc\u00e8res",
+            "E. Il comprend des muscles de diff\u00e9rentes formes"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 38,
+        "question": "La fibre musculaire stri\u00e9e est entour\u00e9e de:",
+        "options": [
+            "A. Endomysium",
+            "B. Epimysium",
+            "C. Perimysium",
+            "D. Une gaine fine de tissu conjonctif",
+            "E. Une gaine \u00e9paisse de tissu conjonctif"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 39,
+        "question": "L'innervation motrice somatique du muscle stri\u00e9 est assur\u00e9e par les axones des neurones suivants:",
+        "options": [
+            "A. Gamma somatomoteurs situ\u00e9s dans la corne ant\u00e9rieure de la moelle \u00e9pini\u00e8re",
+            "B. Sensoriels situ\u00e9s dans le ganglion spinal",
+            "C. Alpha somatomoteurs situ\u00e9s dans la corne ant\u00e9rieure de la moelle \u00e9pini\u00e8re",
+            "D. Alpha et gamma somatosensoriels",
+            "E. Alpha somatomoteurs situ\u00e9s dans la corne post\u00e9rieure de la moelle \u00e9pini\u00e8re"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 40,
+        "question": "Pr\u00e9cisez lequel des muscles suivants appartient \u00e0 la t\u00eate:",
+        "options": [
+            "A. Le muscle occipital",
+            "B. Le muscle orbiculaire de la bouche",
+            "C. Les muscles pt\u00e9rygo\u00efdes",
+            "D. Le muscle grand zygomatique",
+            "E. Le muscle facial"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 41,
+        "question": "Les muscles du dos et du cou sont repr\u00e9sent\u00e9s par:",
+        "options": [
+            "A. Les muscles trap\u00e8zes, innerv\u00e9s par les nerfs accessoires (VI)",
+            "B. Les muscles trap\u00e8zes, situ\u00e9s sup\u00e9rieurement",
+            "C. Les muscles grand dorsales, situ\u00e9s inf\u00e9rieurement",
+            "D. Les muscles intercostaux, situ\u00e9s en profondeur",
+            "E. Les muscles trap\u00e8zes, situ\u00e9s inf\u00e9rieurement"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 42,
+        "question": "Les muscles du membre sup\u00e9rieur sont regroup\u00e9s en:",
+        "options": [
+            "A. Muscles de l'\u00e9paule",
+            "B. Muscles du bras",
+            "C. Muscles de la main",
+            "D. Muscles de l'avant-bras",
+            "E. Muscles de la paume"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 43,
+        "question": "Les muscles de la cuisse sont regroup\u00e9s en:",
+        "options": [
+            "A. La loge post\u00e9rom\u00e9dial",
+            "B. La loge ant\u00e9rom\u00e9dial",
+            "C. La loge post\u00e9rieure",
+            "D. La loge ant\u00e9rolat\u00e9rale",
+            "E. La loge lat\u00e9rale"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 44,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs au muscle sartorius:",
+        "options": [
+            "A. Il est situ\u00e9 sur la partie ant\u00e9rieure de la cuisse",
+            "B. Il est situ\u00e9 profond\u00e9ment du muscle quadriceps",
+            "C. Il est superficiel du muscle quadriceps",
+            "D. C'est un extenseur de la cuisse sur le bassin",
+            "E. C'est le plus long muscle du corps"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 45,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects relatifs aux muscles du pied:",
+        "options": [
+            "A. Ils sont situ\u00e9s sur la face dorsale",
+            "B. Ils r\u00e9alisent l'extension de la jambe",
+            "C. Ils sont situ\u00e9s sur la face plantaire",
+            "D. Ils effectuent la flexion des orteils",
+            "E. Ils effectuent l'extension des orteils"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 46,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au muscle stri\u00e9",
+        "options": [
+            "squelettique:",
+            "A. C'est une cellule cylindrique, allong\u00e9e",
+            "B. Il a un sarcol\u00e8me mince et peu de sarcoplasme",
+            "C. Il a plusieurs noyaux, dispos\u00e9s de mani\u00e8re centrale",
+            "D. Son sarcoplasme contient des organites intracytoplasmiques communs et sp\u00e9cifiques"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 47,
+        "question": "Les fibres musculaires contiennent:",
+        "options": [
+            "A. Prot\u00e9ines contractiles - myosine et actine",
+            "B. Prot\u00e9ines r\u00e9gulatrices - myosine et actine",
+            "C. Prot\u00e9ines r\u00e9gulatrices - tropomyosine et troponine",
+            "D. Substances produisant de l'\u00e9nergie - glycog\u00e8ne, glucose, ATP et CP",
+            "E. Un d\u00e9p\u00f4t de Ca2+ dans le r\u00e9ticulum sarcoplasmatique"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 48,
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant \u00e0 l'unit\u00e9 moteur:",
+        "options": [
+            "A. Il repr\u00e9sente l'unit\u00e9 fonctionnelle du muscle squelettique",
+            "B. Il repr\u00e9sente l'unit\u00e9 contractile de la fibre musculaire stri\u00e9e squelettique",
+            "C. Il se compose d'un motoneurone et des fibres musculaires squelettiques qu'il innerve",
+            "D. Il contient des centaines de fibres musculaires dans les muscles associ\u00e9es \u00e0 la motricit\u00e9 fine",
+            "E. Il contient 3 \u00e0 6 fibres musculaires dans les fibres musculaires associ\u00e9es \u00e0 la motricit\u00e9 grossi\u00e8re"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 49,
+        "question": "L\u2019initiation des contractions du muscle squelettique implique:",
+        "options": [
+            "A. La lib\u00e9ration de Ca2+ du r\u00e9ticulum sarcoplasmatique",
+            "B. La diffusion de Ca2+ du sarcoplasme vers les myofibrilles",
+            "C. Le d\u00e9sassemblage de l\u2019actomyosine et un processus facilit\u00e9 par le Ca 2+",
+            "D. Hydrolyse de l'ATP, sous l'action de l'actomyosine, avec lib\u00e9ration d'\u00e9nergie",
+            "E. La liaison de la myosine \u00e0 l'actine et la formation de'actomyosine"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 5,
+        "id": 50,
+        "question": "Le tonus musculaire joue un r\u00f4le dans:",
+        "options": [
+            "A. La thermor\u00e9gulation",
+            "B. Le maintien de la position dynamique du corps",
+            "C. Le contr\u00f4le mimique (expression du visage)",
+            "D. Le d\u00e9clenchement des contractions musculaires (la contraction est r\u00e9alis\u00e9e plus rapidement)",
+            "E. La fixation de l'articulation"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    }
+]
