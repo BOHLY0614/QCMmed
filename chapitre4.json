@@ -662,13 +662,13 @@
     {
         "chapitre": 4,
         "id": 40,
-        "question": "S\u00e9lectionnez l'\u00e9nonc\u00e9 correct se r\u00e9f\u00e9rant aux \u00eelots de Langerhans du",
+        "question": "S\u00e9lectionnez l'\u00e9nonc\u00e9 correct se r\u00e9f\u00e9rant aux \u00eelots de Langerhans du pancr\u00e9as endocrinien:",
         "options": [
-            "pancr\u00e9as endocrinien:",
             "A. Ils sont petits et polygonaux",
             "B. Ils s\u00e9cr\u00e8tent du glucagon dans une proportion de 70% (cellules A)",
             "C. Ils s\u00e9cr\u00e8tent de l'insuline dans une proportion de 10% (cellules B)",
-            "D. Ils s\u00e9cr\u00e8tent de la somatostatine dans une proportion de 70% (cellules D)"
+            "D. Ils s\u00e9cr\u00e8tent de la somatostatine dans une proportion de 70% (cellules D)",
+            "E. Ils constituent la plus grande partie du volume du pancr\u00e9as"
         ],
         "correct_answers": [
             "A"

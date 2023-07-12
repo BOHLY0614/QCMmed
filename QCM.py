@@ -181,7 +181,7 @@ class QCMApp(tk.Tk):
         self.start_quiz(-1)
 
     def show_final_score(self):
-        self.clear_frame(self.quiz_frame)
+        self.clear_frame(self.quiz_frame) 
 
         score_label = ttk.Label(self.quiz_frame, text=f"Score final : {self.score}/{len(self.current_chapter)}", font=("Arial", 24))
         score_label.pack(pady=20)

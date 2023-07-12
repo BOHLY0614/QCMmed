@@ -438,7 +438,8 @@ C. Il a une gaine de Henle
 D. Il n'a pas de gaine Schwann
 E. Il n'a pas de gaine de Henle
 
-13. En ce qui concerne le gaine de Henle, il est vrai qu’il: A. Appartient aux gaines qui couvrent l'axone des neurones du système nerveux périphérique
+13. En ce qui concerne le gaine de Henle, il est vrai qu’il:
+A. Appartient aux gaines qui couvrent l'axone des neurones du système nerveux périphérique
 B. Appartient aux gaines qui recouvrent l'axone des neurones du système nerveux central
 C. Il enveloppe la gaine de myéline
 D. Il sépare la membrane plasmique d'une cellule de Schwann du tissu épithélial environnant
@@ -1112,8 +1113,7 @@ A. La vitamine A est transformée en opsine
 B. La quantité de pigment visuel augmente
 C. La quantité de pigment visuel diminue
 D. Les pigments visuels dans les cellules photoréceptrices sont convertis en rétinal et opsine
-E. Le rétinal et l'opsine dans les cellules photoréceptrices sont converties en
-pigments visuels
+E. Le rétinal et l'opsine dans les cellules photoréceptrices sont converties en pigments visuels
 
 29. Parmi les affirmations suivantes faisant référence à la voie visuelle, lesquelles sont vraies?
 A. Il représente le segment périphérique de l'analyseur visuel
@@ -1546,8 +1546,7 @@ C. L'axe hypothalamo-hypophysaire-surrénalien
 D. L'axe hypothalamo-hypophysaire-thyroïdien
 E. Quelques-uns des noyaux de l'hypothalamus
 
-40. Sélectionnez l'énoncé correct se référant aux îlots de Langerhans du
-pancréas endocrinien:
+40. Sélectionnez l'énoncé correct se référant aux îlots de Langerhans du pancréas endocrinien:
 A. Ils sont petits et polygonaux
 B. Ils sécrètent du glucagon dans une proportion de 70% (cellules A)
 C. Ils sécrètent de l'insuline dans une proportion de 10% (cellules B)
@@ -1707,8 +1706,7 @@ C. 12 paires de côtes, antérieurement
 D. 12 paires de côtes latéralement
 E. Sternum, situé antérieurement
 
-17. Les côtes présentent les caractéristiques suivantes, à une exception
-près. Qui est-ce?
+17. Les côtes présentent les caractéristiques suivantes, à une exception près. Qui est-ce?
 A. Elles s'étendent de la colonne vertébrale cervicale au sternum
 B. Elles sont divisées en trois catégories
 C. Il y a douze paires de côtes
@@ -1733,8 +1731,7 @@ E. Latéralement, avec l'humérus à travers la fosse glénoïde
 A. Il est relié au squelette du tronc par la ceinture scapulaire.
 B. Il est relié au squelette du tronc par la ceinture pelvienne.
 C. L'humérus forme lui-même le squelette de l'avant-bras
-D. Le squelette de la main est composé de 8 os carpiens, de 5 métacarpiens et de
-14 phalanges
+D. Le squelette de la main est composé de 8 os carpiens, de 5 métacarpiens et de 14 phalanges
 E. Le pouce, le hallux, n'a que deux phalanges
 
 21. Sélectionnez les énoncés corrects relatifs au squelette du membre inférieur:
@@ -1912,8 +1909,7 @@ C. Ils sont situés sur la face plantaire
 D. Ils effectuent la flexion des orteils
 E. Ils effectuent l'extension des orteils
 
-46. Sélectionnez les énoncés corrects se référant au muscle strié
-squelettique:
+46. Sélectionnez les énoncés corrects se référant au muscle strié squelettique:
 A. C'est une cellule cylindrique, allongée
 B. Il a un sarcolème mince et peu de sarcoplasme
 C. Il a plusieurs noyaux, disposés de manière centrale
@@ -3396,8 +3392,7 @@ B. Les vésicules séminales
 C. La prostate
 D. L’épididyme
 E. Les glandes bulbaires et urétrales
-
-                                  
+                       
 7. Sélectionnez les énoncés corrects se référant à l'épididyme:
 A. Il appartient aux canaux séminaux
 B. Il a la forme d'une virgule

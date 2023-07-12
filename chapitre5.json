@@ -265,13 +265,13 @@
     {
         "chapitre": 5,
         "id": 17,
-        "question": "Les c\u00f4tes pr\u00e9sentent les caract\u00e9ristiques suivantes, \u00e0 une exception",
+        "question": "Les c\u00f4tes pr\u00e9sentent les caract\u00e9ristiques suivantes, \u00e0 une exception pr\u00e8s",
         "options": [
-            "pr\u00e8s. Qui est-ce?",
             "A. Elles s'\u00e9tendent de la colonne vert\u00e9brale cervicale au sternum",
             "B. Elles sont divis\u00e9es en trois cat\u00e9gories",
             "C. Il y a douze paires de c\u00f4tes",
-            "D. Seuls certains d\u2019entre eux s\u2019articulent directement avec le sternum"
+            "D. Seuls certains d\u2019entre eux s\u2019articulent directement avec le sternum",
+            "E. Elles participent \u00e0 la formation de la cage thoracique"
         ],
         "correct_answers": [
             "A"
@@ -318,8 +318,8 @@
             "A. Il est reli\u00e9 au squelette du tronc par la ceinture scapulaire.",
             "B. Il est reli\u00e9 au squelette du tronc par la ceinture pelvienne.",
             "C. L'hum\u00e9rus forme lui-m\u00eame le squelette de l'avant-bras",
-            "D. Le squelette de la main est compos\u00e9 de 8 os carpiens, de 5 m\u00e9tacarpiens et de",
-            "14 phalanges"
+            "D. Le squelette de la main est compos\u00e9 de 8 os carpiens, de 5 m\u00e9tacarpiens et de 14 phalanges",
+            "E. Le pouce, le hallux, n'a que deux phalanges"
         ],
         "correct_answers": [
             "A",
@@ -745,13 +745,13 @@
     {
         "chapitre": 5,
         "id": 46,
-        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au muscle stri\u00e9",
+        "question": "S\u00e9lectionnez les \u00e9nonc\u00e9s corrects se r\u00e9f\u00e9rant au muscle stri\u00e9 squelettique:",
         "options": [
-            "squelettique:",
             "A. C'est une cellule cylindrique, allong\u00e9e",
             "B. Il a un sarcol\u00e8me mince et peu de sarcoplasme",
             "C. Il a plusieurs noyaux, dispos\u00e9s de mani\u00e8re centrale",
-            "D. Son sarcoplasme contient des organites intracytoplasmiques communs et sp\u00e9cifiques"
+            "D. Son sarcoplasme contient des organites intracytoplasmiques communs et sp\u00e9cifiques",
+            "E. Son sarcoplasme contient des inclusions de glycog\u00e8ne, de graisse et d'h\u00e9moglobine"
         ],
         "correct_answers": [
             "A",
